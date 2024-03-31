@@ -4,7 +4,7 @@ The BankSystem java project is an in-class project used with live-coding and wit
 The domain is fluid/secodary as the project evolves from a bank administration system to a turnbased game, which will evolved into a Monopoly game in the following flow.
 [repo](https://github.com/Dat1Cphbusiness/BankSystem)
 
-## level 2 subjects:
+## Subjects (level2):
 
 
 
@@ -21,7 +21,7 @@ The domain is fluid/secodary as the project evolves from a bank administration s
 - working with git branches (strictly introductory level, trying it out - no theory)
 
 
-### Also good for repetition of level 1 subjects
+## General repetition of level 1 subjects
  - control flow
  - variable declaration, initialisation and scope.
  - working with lists and arrays

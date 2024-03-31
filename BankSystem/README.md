@@ -21,7 +21,7 @@ The domain is fluid/secodary as the project evolves from a bank administration s
 - working with git branches (strictly introductory level, trying it out - no theory)
 
 
-## General repetition of level 1 subjects
+#### General repetition of level 1 subjects
  - control flow
  - variable declaration, initialisation and scope.
  - working with lists and arrays

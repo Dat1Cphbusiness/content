@@ -32,7 +32,7 @@ The domain is fluid/secodary as the project evolves from a bank administration s
 
 
 ## Didactic use
-  **Materials:** print out of sprint sheet 1 and 2. 1 copy for each pair in the class (class of 30, print 16) [url](https://github.com/Dat1Cphbusiness/Kursusindhold/blob/main/Sprint1-TurnbasedGame.pdf)
+  **Materials:** print out of sprint sheet 1 and 2. 1 copy for each pair in the class (class of 30, print 16) [url](https://github.com/Dat1Cphbusiness/Kursusindhold/blob/main/BankSystem/Sprint1-TurnbasedGame.pdf)
   
   **Groups:** Create teams of 4. Then subdivide teams into pairs.
   

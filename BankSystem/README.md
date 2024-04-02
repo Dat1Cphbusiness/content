@@ -1,6 +1,6 @@
 # BankSystem - TurnbasedGame
 
-The BankSystem java project is project used to demonstrate, discuss and let students try-out multiple level 2 java programming techniques.
+The BankSystem java project is used to demonstrate, discuss and let students try-out multiple level 2 java programming techniques.
 The project is developed over a 2 week period using both live-coding and pair programming, for which two sprint sheets (broken down assignments that the students code using pair programming ) has been developed.
 
 Domainwise the project evolves from a bank administration system to a turnbased game template.

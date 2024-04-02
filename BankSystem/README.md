@@ -1,11 +1,12 @@
 # BankSystem - TurnbasedGame
 
-The BankSystem java project is an in-class project used with live-coding and with sprint sheets (broken down assignments that the students code using pair programming ) to demonstrate, discuss and let students try-out multiple level 2 java programming techniques.
-The domain is fluid/secodary as the project evolves from a bank administration system to a turnbased game, which will evolved into a Monopoly game in the following flow.
+The BankSystem java project is project used to demonstrate, discuss and let students try-out multiple level 2 java programming techniques.
+The project is developed over a 2 week period using both live-coding and pair programming, for which two sprint sheets (broken down assignments that the students code using pair programming ) has been developed.
+
+Domainwise the project evolves from a bank administration system to a turnbased game template.
 [repo](https://github.com/Dat1Cphbusiness/BankSystem)
 
 ## Subjects (level2):
-
 
 
 ### In the main branch

@@ -9,7 +9,7 @@ permalink: /
 
 ## Kursusmaterialer
 
-1. [GP - Intro til programmering: variable og datatyper](./GP/intro_to_programmering/README.md)
+1. [GP - Intro til programmering: variable og datatyper](./GP/intro_to_programming/README.md)
 2. [GP - Kontrolstrukturer: loops og conditions](./GP/control_structures/README.md)
 3. [GP - Organisering af kode: funktioner og objekter ](./GP/organising_code/README.md)
 4. [GP - Data og lister: [] og ArrayList (SP1)](./GP/lists/README.md)

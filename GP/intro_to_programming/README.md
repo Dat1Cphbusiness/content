@@ -18,7 +18,10 @@ Vi kigger på de øvelser der var i bogen og arbejder med at skrive pseudokode.
 Læs chapter 1 og chapter 2 i Learning Processing bogen, **inklusiv øvelserne**.
 
 [Ekstra forberedelse](./resources.md)
-[Opgaver til efter lektionen](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/1.md)
+
+#### Efter lektionen
+Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan sidde med i Open Learning, hvor der vil være mindst en tutor til stede. Opgaverne skal IKKE afleveres.
+[Opgaver](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/1.md)
 
 
 ### Tirsdag: recap + peek (online)
@@ -27,7 +30,7 @@ Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslek
 
 #### Forberedelse:
  - Installer Zoom 
- - Log på klassen zoom rum med dit cph login. 
+ - Log på [klassen zoom rum](https://cphbusiness.zoom.us/j/66755584856?pwd=RDRqZjBqSXBsTlR0QjRsTXh0UEFTUT09)  med dit cph login. 
  - Tjek at dit camera er tændt.
 
 

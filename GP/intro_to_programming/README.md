@@ -1,42 +1,48 @@
 ---
-title: OOP, GIT og TDD
-description: Introduction to the semester
+title: Intro til programmering, variable og datatyper
+description: Introduction to programming, variables and datatypes
 layout: default
 nav_order: 2
 has_children: true
-permalink: /oop-git-tdd/
+permalink: /intro_to_programming/
 ---
 
 # Intro til programmering
-[Læringsmål for ugen](./laeringsmaal.md)
+[Læringsmål for ugen](./learningobjectives.md)
+
+### Mandag: Hello World i Processing
+I har allerede installeret og måske skrevet jeres første linjer kode i Processing IDE'et.
+Vi kigger på de øvelser der var i bogen og arbejder med at skrive pseudokode.
+
+#### Forberedelse:
+Læs chapter 1 og chapter 2 i Learning Processing bogen, **inklusiv øvelserne**.
+
+[Ekstra forberedelse](./resources.md)
+[Opgaver til efter lektionen](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/1.md)
 
 
+### Tirsdag: recap + peek (online)
+Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslektionen.
 
-### Mandag: Hello World I Processing
-I skal skrive jeres første linjer kode i Processing IDE'et. Læs chapter 1 og chapter 2 i Learning Processing bogen, inklusiv øvelserne.
 
-Her kan du finde en samling af videoer og øvelser. Nogle af øvelserne er dem som du også finder i bogen [video and exercises](resources.md#Programming) 
-
-### Tirsdag: ONLINE recap + peek
-1 times online møde, hvor vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslektionen.
-Der er meget forberedelse til onsdag så resten af dagen skal du afsætte til forberedelse.
+#### Forberedelse:
+ - Installer Zoom 
+ - Log på klassen zoom rum med dit cph login. 
+ - Tjek at dit camera er tændt.
 
 
 ### Onsdag: Variables and datatypes
-Læs chapter 4 in Learning Processing inklusiv øvelserne i bogen.
 Her kan du finde en samling af videoer og øvelser. Nogle af øvelserne er dem som du også finder i bogen [video and exercises](resources.md#Variables and Datatypes)
+
+#### Forberedelse:
+Læs chapter 4 in Learning Processing inklusiv øvelserne i bogen.
+
 
 ### Torsdag: Opgavedag
 Første gang med det ugentlige opgavesæt, som skal afleveres senest torsdag aften. Man kan lave opgaverne i fællesskab, men man afleverer individuelt.
-
-Linket til opgaver lægges på Moodle fra onsdag efter lektionen.
-
 Ligesom opgaverne ligger i deres eget git repository, også kaldet "remote repository", skal I også lave et remote git repository til jeres løsninger. Der er vejledning til hvordan I sætter det op i den første opgave.
-
-Det er linket til det repository, I skal aflevere.
-
+Man afleverer gennem afleveringslink på Moodle. Det er linket til det repository, I skal aflevere.
 Den første opgave vil guide jer igennem at oprette og forbinde til jeres eget GitHub repository. [Afleveringslink]() indsæt linket til dit repository. Der vil være tutorer til stede i Open Learning.
-
 
 [Torsdagsopgaver-0-variables](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-0-variables)
 

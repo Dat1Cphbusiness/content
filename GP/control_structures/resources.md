@@ -33,13 +33,13 @@ permalink: /control_structures/resources/
 2. [w3schools: Java Nested Loops](https://www.w3schools.com/java/java_for_loop_nested.asp)
 3. [w3schools: For-Each Loop](https://www.w3schools.com/java/java_foreach_loop.asp)
 
-### Videos
-[Learning Processing: Introduction to Loops (11:14)](http://learningprocessing.com/videos/6-0)
-[Learning Processing:Two Loops Exercise (2:55)](http://learningprocessing.com/videos/6-1)
-[Learning Processing:The 'For' loop (6:59)](http://learningprocessing.com/videos/6-2)
-[Learning Processing:Variable Scope (9:00)](http://learningprocessing.com/videos/6-3)
-[Learning Processing:A Loop Inside Draw (6:32) (ikke så vigtig som de andre)](http://learningprocessing.com/videos/6-4)
-[Learning Processing:Nested Loops In Loops (6:51](http://learningprocessing.com/videos/6-5)
+### Videos 
+1. [Learning Processing: Introduction to Loops (11:14)](http://learningprocessing.com/videos/6-0)
+2. [Learning Processing:Two Loops Exercise (2:55)](http://learningprocessing.com/videos/6-1)
+3. [Learning Processing:The 'For' loop (6:59)](http://learningprocessing.com/videos/6-2)
+4. [Learning Processing:Variable Scope (9:00)](http://learningprocessing.com/videos/6-3)
+5. [Learning Processing:A Loop Inside Draw (6:32) (ikke så vigtig som de andre)](http://learningprocessing.com/videos/6-4)
+6. [Learning Processing:Nested Loops In Loops (6:51](http://learningprocessing.com/videos/6-5)
 
 ### Exercises
 

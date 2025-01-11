@@ -18,6 +18,7 @@ Læs i Learning Processing: Chapter 5 :"Conditionals" (24 sider), **inklusiv øv
 
 [Ekstra forberedelse](./resources.md)
 
+
 [Opgaver til efter lektionen](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/1.md)
 
 ### Tirsdag: recap + peek (online)

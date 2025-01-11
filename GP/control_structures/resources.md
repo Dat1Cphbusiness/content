@@ -1,47 +1,46 @@
 
 
 ---
-title: Intro til Programmering Ressourcer
-description: Diverse kilder til Intro til Programmering
+title: Kontrolstrukturer
+description: Diverse kilder til Kontrolstrukturer
 layout: default
-parent: Intro til Programmering
+parent: Kontrolstrukturer
 nav_order: 3
-permalink: /intro_to_programming/resources/
+permalink: /control_structures/resources/
 ---
 
 # Ekstra materiale for ugen
 
-## Dag1 - intro til Programmering
+## Mandag - Conditions
+### Reading
+1. [w3schools: Java if...else](https://www.w3schools.com/java/java_conditions.asp)
 1. [docJava: Selection](http://docjava.dk/selection)
 
 ### Videos
-
+1. [Learning Processing: Boolean expressions (12:14)](http://learningprocessing.com/videos/5-0)
+2. [Learning Processing: if, else if, else(11:16)](http://learningprocessing.com/videos/5-1)
+3. [Logical operators : and or (9:55)](http://learningprocessing.com/videos/5-2)
+4. [Boolean variables (8:47)](http://learningprocessing.com/videos/5-3)
 
 ### Exercises
-1. [w3Schools: Comments](https://www.w3schools.com/java/exercise.asp?x=xrcise_comments1)
-2. [Learning Processing: Exercises (chapter 1 and 2)](http://learningprocessing.com/exercises/)
+1. [w3Schools: if...else](https://www.w3schools.com/java/exercise.asp?filename=exercise_conditions1)
+2. [w3Schools: switch](https://www.w3schools.com/java/exercise.asp?filename=exercise_switch1)
+3. [Learning Processing: Chapter 5, Conditionals](http://learningprocessing.com/exercises/) (samme øvelser som i bogen)
 
-
-## Dag 2 og 3 Variables and Datatypes
-1. [w3Schools: Read about Java Variables](https://www.w3schools.com/java/java_variables.asp)
-2. [w3schools: Java operators](https://www.w3schools.com/java/java_operators.asp)
-3. [w3schools: Java Strings](https://www.w3schools.com/java/java_strings.asp)
+## Onsdag - Loops
+### Reading
+1. [w3Schools: Java For Loop](https://www.w3schools.com/java/java_for_loop.asp)
+2. [w3schools: Java Nested Loops](https://www.w3schools.com/java/java_for_loop_nested.asp)
+3. [w3schools: For-Each Loop](https://www.w3schools.com/java/java_foreach_loop.asp)
 
 ### Videos
-1. [Learning Processing: Variables (video)](http://learningprocessing.com/videos/4-0)
-2. [Learning Processing: Incrementing a variable (video)](http://learningprocessing.com/videos/4-1)
-3. [w3Schools: Java Variables (video)](https://www.youtube.com/watch?v=D3DqJrlckbs&list=PLP9IO4UYNF0VT3LvP_Cl4EIEyVk-Q5DP3&index=7&ab_channel=w3schools.com)
-
+[Learning Processing: Introduction to Loops (11:14)](http://learningprocessing.com/videos/6-0)
+[Learning Processing:Two Loops Exercise (2:55)](http://learningprocessing.com/videos/6-1)
+[Learning Processing:The 'For' loop (6:59)](http://learningprocessing.com/videos/6-2)
+[Learning Processing:Variable Scope (9:00)](http://learningprocessing.com/videos/6-3)
+[Learning Processing:A Loop Inside Draw (6:32) (ikke så vigtig som de andre)](http://learningprocessing.com/videos/6-4)
+[Learning Processing:Nested Loops In Loops (6:51](http://learningprocessing.com/videos/6-5)
 
 ### Exercises
 
-1. [Learning Processing: Exercises (chapter 4)](http://learningprocessing.com/exercises/)
-2. [w3Schools: Variables](https://www.w3schools.com/java/exercise.asp?x=xrcise_variables1)
-3. [w3Schools: Print Variables](https://www.w3schools.com/java/exercise.asp?x=xrcise_variables_print1)
-4. [w3Schools: Variable Names](https://www.w3schools.com/java/exercise.asp?x=xrcise_variables_identifiers1)
-5. [w3Schools: Data types](https://www.w3schools.com/java/exercise.asp?x=xrcise_data_types1)
-6. [w3Schools: Operators](https://www.w3schools.com/java/exercise.asp?x=xrcise_operators1)
-7. [w3Schools: Strings](https://www.w3schools.com/java/exercise.asp?x=xrcise_strings1)
-8. [w3Schools: Strings Concatenation](https://www.w3schools.com/java/exercise.asp?x=xrcise_strings_concat1)
-9. [w3Schools: Strings and Numbers](https://www.w3schools.com/java/exercise.asp?x=xrcise_strings_numbers1)
-
+1. [Learning Processing: Exercises (chapter 6)](http://learningprocessing.com/exercises/)

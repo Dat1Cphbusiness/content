@@ -1,5 +1,5 @@
 ---
-title: Betingelser og Loops
+title: 2. GP - Betingelser og Loops
 description: Betingelser og Loops
 layout: default
 nav_order: 2

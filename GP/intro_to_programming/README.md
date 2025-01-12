@@ -1,5 +1,5 @@
 ---
-title: Intro til programmering, variable og datatyper
+title: 1. GP - Intro til programmering, Variable og Datatyper
 description: Introduction to programming, variables and datatypes
 layout: default
 nav_order: 2

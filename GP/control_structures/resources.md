@@ -19,9 +19,9 @@ permalink: /control_structures/resources/
 ### Videos
 1. [Learning Processing: Boolean expressions (12:14)](http://learningprocessing.com/videos/5-0)
 2. [Learning Processing: if, else if, else(11:16)](http://learningprocessing.com/videos/5-1)
-3. [Logical operators : and or (9:55)](http://learningprocessing.com/videos/5-2)
-4. [Boolean variables (8:47)](http://learningprocessing.com/videos/5-3)
-
+3. [Learning Processing:Logical operators : and or (9:55)](http://learningprocessing.com/videos/5-2)
+4. [Learning Processing:Boolean variables (8:47)](http://learningprocessing.com/videos/5-3)
+5. [Learning Processing:Coding with John:.equals() vs. == in Java - The Real Difference](https://youtu.be/AoUVdLWLFQw)
 ### Exercises
 1. [w3Schools: if...else](https://www.w3schools.com/java/exercise.asp?filename=exercise_conditions1)
 2. [w3Schools: switch](https://www.w3schools.com/java/exercise.asp?filename=exercise_switch1)
@@ -38,9 +38,10 @@ permalink: /control_structures/resources/
 2. [Learning Processing:Two Loops Exercise (2:55)](http://learningprocessing.com/videos/6-1)
 3. [Learning Processing:The 'For' loop (6:59)](http://learningprocessing.com/videos/6-2)
 4. [Learning Processing:Variable Scope (9:00)](http://learningprocessing.com/videos/6-3)
-5. [Learning Processing:A Loop Inside Draw (6:32) (ikke så vigtig som de andre)](http://learningprocessing.com/videos/6-4)
+5. [Learning Processing:A Loop Inside Draw (6:32) ](http://learningprocessing.com/videos/6-4)
 6. [Learning Processing:Nested Loops In Loops (6:51](http://learningprocessing.com/videos/6-5)
 
 ### Exercises
 
-1. [Learning Processing: Exercises (chapter 6)](http://learningprocessing.com/exercises/)
+1. [Learning Processing: Exercises (chapter 6)](http://learningprocessing.com/exercises/)(samme øvelser som i bogen)
+2. [Håndkørte loops](https://efif.sharepoint.com/:w:/s/cph/Lyngby/EW187v2ZZypDkv1NKINGz7QBkavJRYF0KF88wYr75qpCnA?e=4LfmwR)

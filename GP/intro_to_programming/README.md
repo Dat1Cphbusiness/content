@@ -16,6 +16,8 @@ Vi kigger på de øvelser der var i bogen og arbejder med at skrive pseudokode.
 
 #### Forberedelse:
 Læs chapter 1 og chapter 2 i Learning Processing bogen, **inklusiv øvelserne**.
+(Skip projektet på side 45)
+
 
 [Ekstra forberedelse](./resources.md)
 

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.jekyll-cache/Jekyll" />
+      <excludeFolder url="file://$MODULE_DIR$/_site/control_structures/learningobjectives" />
+      <excludeFolder url="file://$MODULE_DIR$/_site/control_structures/resources" />
+      <excludeFolder url="file://$MODULE_DIR$/_site/intro_to_programming/resources" />
+      <excludeFolder url="file://$MODULE_DIR$/.jekyll-cache" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

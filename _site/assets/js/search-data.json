@@ -1,235 +1,242 @@
 {"0": {
     "doc": "3. GP - Funktioner og Objekter",
+    "title": "Organisering af koden: Funktioner og objekter",
+    "content": "Læringsmål for ugen . Mandag: Funktioner . Forberedelse: . Ekstra forberedelse . Efter lektionen . Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan sidde med i Open Learning, hvor der vil være mindst en tutor til stede. Opgaverne skal IKKE afleveres. Opgaver . Tirsdag: recap + peek (online) . Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslektionen. Forberedelse: . Onsdag: Objekter . Forberedelse: . Torsdag: Opgavedag . Fredag: review . ",
+    "url": "/organising_code/#organisering-af-koden-funktioner-og-objekter",
+    
+    "relUrl": "/organising_code/#organisering-af-koden-funktioner-og-objekter"
+  },"1": {
+    "doc": "3. GP - Funktioner og Objekter",
     "title": "3. GP - Funktioner og Objekter",
     "content": " ",
     "url": "/organising_code/",
     
     "relUrl": "/organising_code/"
-  },"1": {
+  },"2": {
     "doc": "2. GP - Betingelser og Loops",
     "title": "Konstrolstrukturer: Betingelser og Loops",
     "content": "Læringsmål for ugen . Mandag: Betingelser . Lektion om den ene af de to konstrolstukturer vi skal se på i denne uge: conditions (betingelser) . Forberedelse . Læs i Learning Processing, Chapter 5 :”Conditionals” (24 sider), inklusiv øvelserne. Ekstra forberedelse . Opgaver til efter lektionen . Tirsdag: recap + peek (online) . Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslektionen. Forberedelse: . | Log på klassen zoom rum med dit cph login. | Tjek at dit camera er tændt. | . Onsdag: Loops . Lektion om den anden af de to konstrolstukturer: Loops (løkker) . Forberedelse . Læs i Learning Processing: Kapitel 6, “Loops” (20 sider), inklusiv øvelserne. ",
     "url": "/control_structures/#konstrolstrukturer-betingelser-og-loops",
     
     "relUrl": "/control_structures/#konstrolstrukturer-betingelser-og-loops"
-  },"2": {
+  },"3": {
     "doc": "2. GP - Betingelser og Loops",
     "title": "2. GP - Betingelser og Loops",
     "content": " ",
     "url": "/control_structures/",
     
     "relUrl": "/control_structures/"
-  },"3": {
+  },"4": {
     "doc": "1. GP - Intro til programmering, Variable og Datatyper",
     "title": "Intro til programmering",
     "content": "Læringsmål for ugen . Mandag: Hello World i Processing . I har allerede installeret og måske skrevet jeres første linjer kode i Processing IDE’et. Vi kigger på de øvelser der var i bogen og arbejder med at skrive pseudokode. Forberedelse: . Læs chapter 1 og chapter 2 i Learning Processing bogen, inklusiv øvelserne. (Skip projektet på side 45) . Ekstra forberedelse . Efter lektionen . Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan sidde med i Open Learning, hvor der vil være mindst en tutor til stede. Opgaverne skal IKKE afleveres. Opgaver . Tirsdag: recap + peek (online) . Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslektionen. Forberedelse: . | Installer Zoom | Log på klassen zoom rum med dit cph login. | Tjek at dit camera er tændt. | . Onsdag: Variables and datatypes . Her kan du finde en samling af videoer og øvelser. Nogle af øvelserne er dem som du også finder i bogen video and exercises . Forberedelse: . Læs chapter 4 in Learning Processing inklusiv øvelserne i bogen. Torsdag: Opgavedag . Første gang med det ugentlige opgavesæt, som skal afleveres senest torsdag aften. Man kan lave opgaverne i fællesskab, men man afleverer individuelt. Ligesom opgaverne ligger i deres eget git repository, også kaldet “remote repository”, skal I også lave et remote git repository til jeres løsninger. Der er vejledning til hvordan I sætter det op i den første opgave. Man afleverer gennem afleveringslink på Moodle. Det er linket til det repository, I skal aflevere. Den første opgave vil guide jer igennem at oprette og forbinde til jeres eget GitHub repository. Afleveringslink indsæt linket til dit repository. Der vil være tutorer til stede i Open Learning. Torsdagsopgaver-0-variables . Fredag: review . Hvad er review og hvorfor skal vi det? . Review er en gennemgang af torsdagsøvelserne. Ved gennemgangen skiftes I til at præsentere egen kode. Koden behøver på ingen måde at være flot eller fungere for den sags skyld. Man viser bare hvad man fik lavet til en given opgave, og så kan det være vi ændrer lidt på den eller koder den færdig i fælleskab. Ofte vil en studerende vise kode der fuldstændig løser opgaven. Det er også fint, men vi undervisere vil ligeså gerne se mange forskellige bud på løsningen da det er lærerigt at se hvordan et problem kan løses på mange måder. Det kan også foregå sådan, at vi koder løsningen, mens I byder ind med kommentarer til hvad der skrives. Det er ved at reflektere over din egen kode og snakke om den, at du lærer allermest. Den mundtlige eksamen har lidt samme form: man viser at man forstår koden, ved at tale om den. Er det frivilligt om man vi præsentere sin kode? . Dem der er bedst til at programmere er som regel friske på at vise deres løsning frem, mens dem der lige er startet gemmer sig lidt. Det er helt forståeligt. Vi tvinger ikke nogen, men vi opfordrer alle til at prøve at komme på banen, også selvom man stadig ikke helt forstår sin egen kode og hvorfor den virker ;) . ",
     "url": "/intro_to_programming/#intro-til-programmering",
     
     "relUrl": "/intro_to_programming/#intro-til-programmering"
-  },"4": {
+  },"5": {
     "doc": "1. GP - Intro til programmering, Variable og Datatyper",
     "title": "1. GP - Intro til programmering, Variable og Datatyper",
     "content": " ",
     "url": "/intro_to_programming/",
     
     "relUrl": "/intro_to_programming/"
-  },"5": {
+  },"6": {
     "doc": "Oversigt",
     "title": "DAT 1. semester",
     "content": " ",
     "url": "/#dat-1-semester",
     
     "relUrl": "/#dat-1-semester"
-  },"6": {
+  },"7": {
     "doc": "Oversigt",
     "title": "Kursusmaterialer",
     "content": ". | GP - Intro til programmering: variable og datatyper | GP - Kontrolstrukturer: loops og conditions | GP - Organisering af kode: funktioner og objekter | GP - Data og lister: [] og ArrayList (SP1) | OOP - Java med texteditor - Scanner, fejlhåndtering, (Drinksmenu/TextUI) | OOP - Java med IntelliJ - Filer, composition (Bank/FileIO) | OOP - Nedarvning, Interfaces, Polymorphi (SP2) | Systemudvikling - analyse og design (Matador) | Systemudvikling - implementering og test (Matador) | Projekt - Streamingtjeneste(SP3) | Makerlab | Datastrukturer og databaser | workshop (vælg GUI eller Algoritmer) | Projekt - ICE (SP4) | . ",
     "url": "/#kursusmaterialer",
     
     "relUrl": "/#kursusmaterialer"
-  },"7": {
+  },"8": {
     "doc": "Oversigt",
     "title": "Bonus materiale og selvstudier",
     "content": ". | Grundlæggende programmering | OOP | Systemudvikling | SQL | Teamwork og gruppekontrakt | . ",
     "url": "/#bonus-materiale-og-selvstudier",
     
     "relUrl": "/#bonus-materiale-og-selvstudier"
-  },"8": {
+  },"9": {
     "doc": "Oversigt",
     "title": "Værktøjskasse / Toolbox",
     "content": "Vi har samlet en række generelle vejledninger i en Toolbox . ",
     "url": "/#v%C3%A6rkt%C3%B8jskasse--toolbox",
     
     "relUrl": "/#værktøjskasse--toolbox"
-  },"9": {
+  },"10": {
     "doc": "Oversigt",
     "title": "Oversigt",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"10": {
+  },"11": {
     "doc": "4. GP - Lister",
     "title": "4. GP - Lister",
     "content": " ",
     "url": "/lists/",
     
     "relUrl": "/lists/"
-  },"11": {
+  },"12": {
     "doc": "About",
     "title": "About",
     "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
     "url": "/about/",
     
     "relUrl": "/about/"
-  },"12": {
+  },"13": {
     "doc": "Læringsmål",
     "title": "Læringsmål for ugen",
     "content": " ",
     "url": "/lists/learningobjectives/#l%C3%A6ringsm%C3%A5l-for-ugen",
     
     "relUrl": "/lists/learningobjectives/#læringsmål-for-ugen"
-  },"13": {
+  },"14": {
     "doc": "Læringsmål",
     "title": "array",
     "content": " ",
     "url": "/lists/learningobjectives/#array",
     
     "relUrl": "/lists/learningobjectives/#array"
-  },"14": {
+  },"15": {
     "doc": "Læringsmål",
     "title": "ArrayList",
     "content": " ",
     "url": "/lists/learningobjectives/#arraylist",
     
     "relUrl": "/lists/learningobjectives/#arraylist"
-  },"15": {
+  },"16": {
     "doc": "Læringsmål",
     "title": "Læringsmål",
     "content": " ",
     "url": "/lists/learningobjectives/",
     
     "relUrl": "/lists/learningobjectives/"
-  },"16": {
+  },"17": {
     "doc": "Læringsmål",
     "title": "Læringsmål for ugen",
     "content": " ",
     "url": "/organising_code/learningobjectives/#l%C3%A6ringsm%C3%A5l-for-ugen",
     
     "relUrl": "/organising_code/learningobjectives/#læringsmål-for-ugen"
-  },"17": {
+  },"18": {
     "doc": "Læringsmål",
     "title": "Funktioner",
     "content": " ",
     "url": "/organising_code/learningobjectives/#funktioner",
     
     "relUrl": "/organising_code/learningobjectives/#funktioner"
-  },"18": {
+  },"19": {
     "doc": "Læringsmål",
     "title": "Objekter",
     "content": " ",
     "url": "/organising_code/learningobjectives/#objekter",
     
     "relUrl": "/organising_code/learningobjectives/#objekter"
-  },"19": {
+  },"20": {
     "doc": "Læringsmål",
     "title": "Læringsmål",
     "content": " ",
     "url": "/organising_code/learningobjectives/",
     
     "relUrl": "/organising_code/learningobjectives/"
-  },"20": {
+  },"21": {
     "doc": "Læringsmål",
     "title": "Læringsmål for ugen",
     "content": "Efter denne uge er det meningen at du kan… . Forklare flg. begreber . | syntaks | algoritme | pseudokode | IDE | kommando | keywords | declare(erklære), assign(tildele) | . Udføre flg. handlinger . | starte og afvikle en sketch i Processing | anvende Processing’s globale variable, setup og draw metoder samt forstå koordinatystemet | tegne primitive shapes med Processing kommandoer | bruge variable i stedet for hard-codede værdier | erklære en variabel, herunder kende konventioner for navngivning af en variabel | bestemme en datatype til en variabel, herunder anvende numeriske og textbaserede datatyper | tildele en værdi til en variabel | overskrive en variabels værdi med en ny værdi | tildele en beregnet værdi til en variabel, herunder bruge matematiske operatorer | tildele en betinget værdi til en variabel (ternary assignment) | udskrive en værdien af en variabel, herunder bruge String concatenation | kende til variable scope | kende til primitive datatyper | . ",
     "url": "/intro_to_programming/learningobjectives/#l%C3%A6ringsm%C3%A5l-for-ugen",
     
     "relUrl": "/intro_to_programming/learningobjectives/#læringsmål-for-ugen"
-  },"21": {
+  },"22": {
     "doc": "Læringsmål",
     "title": "Læringsmål",
     "content": " ",
     "url": "/intro_to_programming/learningobjectives/",
     
     "relUrl": "/intro_to_programming/learningobjectives/"
-  },"22": {
+  },"23": {
     "doc": "Læringsmål",
     "title": "Læringsmål for ugen",
     "content": " ",
     "url": "/intro_to_programming/learningobjectives/#l%C3%A6ringsm%C3%A5l-for-ugen",
     
     "relUrl": "/intro_to_programming/learningobjectives/#læringsmål-for-ugen"
-  },"23": {
+  },"24": {
     "doc": "Læringsmål",
     "title": "Betingelser",
     "content": "Du kender betydning af disse nøgleord: . | if-statement, if-else | boolske udtryk/boolean expressions | code-block | logiske operatorer | algoritme | betingelse/condition | evaluere/evaluate. | . ",
     "url": "/intro_to_programming/learningobjectives/#betingelser",
     
     "relUrl": "/intro_to_programming/learningobjectives/#betingelser"
-  },"24": {
+  },"25": {
     "doc": "Læringsmål",
     "title": "Loops",
     "content": ". | iteration/gennemløb | loop/løkke | 2 forskellige slags loops: while-loop og for-loop | increment (at tælle et tal op) | scope | . ",
     "url": "/intro_to_programming/learningobjectives/#loops",
     
     "relUrl": "/intro_to_programming/learningobjectives/#loops"
-  },"25": {
+  },"26": {
     "doc": "Læringsmål",
     "title": "Læringsmål",
     "content": " ",
     "url": "/intro_to_programming/learningobjectives/",
     
     "relUrl": "/intro_to_programming/learningobjectives/"
-  },"26": {
+  },"27": {
     "doc": "Organisering af koden",
     "title": "Ekstra materiale for ugen",
     "content": " ",
     "url": "/organising_code/resources/#ekstra-materiale-for-ugen",
     
     "relUrl": "/organising_code/resources/#ekstra-materiale-for-ugen"
-  },"27": {
+  },"28": {
     "doc": "Organisering af koden",
     "title": "Mandag - Funktioner",
     "content": "Reading . | . Videos . | Exercises . | | . ",
     "url": "/organising_code/resources/#mandag---funktioner",
     
     "relUrl": "/organising_code/resources/#mandag---funktioner"
-  },"28": {
+  },"29": {
     "doc": "Organisering af koden",
     "title": "Onsdag - Objekter",
     "content": "Reading . | Videos . | Exercises . | | . ",
     "url": "/organising_code/resources/#onsdag---objekter",
     
     "relUrl": "/organising_code/resources/#onsdag---objekter"
-  },"29": {
+  },"30": {
     "doc": "Organisering af koden",
     "title": "Organisering af koden",
     "content": " ",
     "url": "/organising_code/resources/",
     
     "relUrl": "/organising_code/resources/"
-  },"30": {
+  },"31": {
     "doc": "Lister",
     "title": "Ekstra materiale for ugen",
     "content": " ",
     "url": "/lists/resources/#ekstra-materiale-for-ugen",
     
     "relUrl": "/lists/resources/#ekstra-materiale-for-ugen"
-  },"31": {
+  },"32": {
     "doc": "Lister",
     "title": "Mandag - Funktioner",
     "content": "Reading . | . Videos . | Exercises . | | . ",
     "url": "/lists/resources/#mandag---funktioner",
     
     "relUrl": "/lists/resources/#mandag---funktioner"
-  },"32": {
+  },"33": {
     "doc": "Lister",
     "title": "Onsdag - Objekter",
     "content": "Reading . | Videos . | Exercises . | | . ",
     "url": "/lists/resources/#onsdag---objekter",
     
     "relUrl": "/lists/resources/#onsdag---objekter"
-  },"33": {
+  },"34": {
     "doc": "Lister",
     "title": "Lister",
     "content": " ",

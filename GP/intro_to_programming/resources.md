@@ -1,5 +1,3 @@
-
-
 ---
 title: Intro til Programmering Ressourcer
 description: Diverse kilder til Intro til Programmering
@@ -32,7 +30,7 @@ DocJava er en udmærket resource, på dansk. Eksemplerne er med "ren" Java, og d
 ## Onsdag - Variables and Datatypes
 
 ### Reading
-1. [w3Schools: Read about Java Variables](https://www.w3schools.com/java/java_variables.asp)
+1. [w3Schools: Java Variables](https://www.w3schools.com/java/java_variables.asp)
 2. [w3schools: Java operators](https://www.w3schools.com/java/java_operators.asp)
 3. [w3schools: Java Strings](https://www.w3schools.com/java/java_strings.asp)
 

@@ -4,7 +4,7 @@ description: Læringsmål for introduktionsuge
 layout: default
 parent: Intro til programmering
 nav_order: 1
-permalink: /intro_to_programming/learningobjectives/
+permalink:  /intro_to_programming/learningobjectives/
 ---
 
 

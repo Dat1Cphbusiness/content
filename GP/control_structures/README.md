@@ -1,5 +1,5 @@
 ---
-title: 2. GP - Betingelser og Loops
+title: 2. GP - Kontrolstrukturer - Betingelser og Loops
 description: Betingelser og Loops
 layout: default
 nav_order: 2
@@ -16,7 +16,7 @@ Lektion om den ene af de to konstrolstukturer vi skal se på i denne uge: condit
 #### Forberedelse
 Læs i Learning Processing, Chapter 5 :"Conditionals" (24 sider), **inklusiv øvelserne**.
 
-[Ekstra forberedelse](./resources.md)
+[Bonusmateriale](./resources.md)
 
 
 [Opgaver til efter lektionen](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/2.md)

@@ -19,7 +19,7 @@ Læs chapter 1 og chapter 2 i Learning Processing bogen, **inklusiv øvelserne**
 (Skip projektet på side 45)
 
 
-[Ekstra forberedelse](./resources.md)
+[Bonusmateriale](./resources.md)
 
 #### Efter lektionen
 Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan sidde med i Open Learning, hvor der vil være mindst en tutor til stede. Opgaverne skal IKKE afleveres.

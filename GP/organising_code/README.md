@@ -1,6 +1,6 @@
 ---
-title: 3. GP - Funktioner og Objekter
-description: en introduktion til funktioner og objekter
+title: 3. GP - Organisering af koden - Funktioner og Objekter
+description: En introduktion til funktioner og objekter
 layout: default
 nav_order: 2
 has_children: true
@@ -16,7 +16,7 @@ permalink: /organising_code/
 #### Forberedelse:
 
 
-[Ekstra forberedelse](./resources.md)
+[Bonusmateriale](./resources.md)
 
 #### Efter lektionen
 Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan sidde med i Open Learning, hvor der vil være mindst en tutor til stede. Opgaverne skal IKKE afleveres.

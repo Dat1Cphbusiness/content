@@ -4,15 +4,15 @@ description: Læringsmål for introduktionsuge
 layout: default
 parent: Intro til programmering
 nav_order: 1
-permalink: /intro_to_programming/learningobjectives/
+permalink: /control_structures/learningobjectives/
 ---
 # Læringsmål for ugen
 
 
 
 ## Betingelser
-Du kender betydning af disse nøgleord: 
-- if-statement, if-else 
+Du kender betydningen af... 
+- ```if```, ```switch``` og ```if-else ``` -statements
 - boolske udtryk/boolean expressions
 - code-block
 - logiske operatorer

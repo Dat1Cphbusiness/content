@@ -1,5 +1,3 @@
-
-
 ---
 title: Kontrolstrukturer
 description: Diverse kilder til Kontrolstrukturer

@@ -9,10 +9,10 @@ permalink: /
 
 ## Kursusmaterialer
 
-1. [GP - Intro til programmering: variable og datatyper](./intro_to_programming)
-2. [GP - Kontrolstrukturer: loops og conditions](./control_structures)
-3. [GP - Organisering af kode: funktioner og objekter ](./organising_code)
-4. [GP - Data og lister: [] og ArrayList (SP1)](./lists)
+1. [GP - Intro til programmering: Variable og Datatyper](./intro_to_programming)
+2. [GP - Kontrolstrukturer: Betingelse og Loops](./control_structures)
+3. [GP - Organisering af kode: Funktioner og Objekter ](./organising_code)
+4. [GP - Data og lister: array[] og ArrayList (SP1)](./lists)
 5. [OOP - Java med texteditor - Scanner, fejlhåndtering, (Drinksmenu/TextUI)](./TextUI)
 6. [OOP - Java med IntelliJ - Filer, composition (Bank/FileIO)](./FileIO)
 7. [OOP - Nedarvning, Interfaces, Polymorphi (SP2)](./inheritance)

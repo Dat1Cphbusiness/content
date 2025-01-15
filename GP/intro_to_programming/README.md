@@ -33,7 +33,7 @@ Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslek
 #### Forberedelse:
  - Installer Zoom 
  - Log på [klassen zoom rum](https://cphbusiness.zoom.us/j/66755584856?pwd=RDRqZjBqSXBsTlR0QjRsTXh0UEFTUT09)  med dit cph login. 
- - Tjek at dit camera er tændt.
+ - Tjek at dit camera virker og er tændt når lektionen starter.
 
 
 ### Onsdag: Variables and datatypes

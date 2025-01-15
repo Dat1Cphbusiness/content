@@ -11,7 +11,7 @@ permalink: /lists/resources/
 
 ## Mandag - Funktioner
 ### Reading
-1. []()
+
 
 ### Videos
 1. []()
@@ -20,7 +20,9 @@ permalink: /lists/resources/
 
 ## Onsdag - Objekter
 ### Reading
-1. []()
+1. [Læs om Java Application Programming Interface](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/CS101-1.3.5.3-Java-Application-Programming-Interface-API-FINAL.pdf)
+2. [Java API documentation: Java util pakken](https://docs.oracle.com/javase/7/docs/api/java/util/ArrayList.html)
+
 ### Videos
 1. []()
 ### Exercises

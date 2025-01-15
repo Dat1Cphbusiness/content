@@ -12,7 +12,8 @@ permalink: /control_structures/resources/
 ## Mandag - Conditions
 ### Reading
 1. [w3schools: Java if...else](https://www.w3schools.com/java/java_conditions.asp)
-1. [docJava: Selection](http://docjava.dk/selection)
+2[docJava: Selection](http://docjava.dk/selection)
+3[docjava.dk: algoritmer](http://www.docjava.dk/grundlaeggende_programmering/algoritmer/algoritmer.htm)
 
 ### Videos
 1. [Learning Processing: Boolean expressions (12:14)](http://learningprocessing.com/videos/5-0)

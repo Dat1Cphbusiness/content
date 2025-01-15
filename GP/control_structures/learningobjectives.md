@@ -9,7 +9,6 @@ permalink: /control_structures/learningobjectives/
 # Læringsmål for ugen
 
 
-
 ## Betingelser
 Du kender betydningen af... 
 - ```if```, ```switch``` og ```if-else ``` -statements

@@ -7,7 +7,7 @@ nav_order: 3
 permalink: /SP1/
 ---
 
-
+### SP1, Flow 1 studypoint opgave
 Vi er kommet til vejs ende med de indledende øvelser. I har nu fået præsenteret de mest fundamentale begreber indenfor programmering. Vi forlader Processing's beskyttende miljø til fordel for kodning i "ren java"
 
 I får dog lov til at holde fast i Processing med en opgave som I skal arbejde på individuelt over de næste to uger. Opgaven er fri. Du bestemmer selv hvor meget og hvor lidt, men lav noget hvor du får øvet dig på det I lige har været igennem:

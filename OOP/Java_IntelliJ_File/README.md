@@ -20,15 +20,25 @@ Med DrinksMenuen i sidste uge kodede vi en dialog mellem bruger og system. Med u
 
 #### Forberedelse:
  Der findes flere versioner: intelliJ IDEA Edu, IntelliJCommunity og intelliJUltimate. I har licens til ultimate hvis I opretter en konto med jeres cphbusiness email.
-1. [Opret en konto hos jetBrains](https://www.jetbrains.com/) 
-2. [Installer intelliJUltimate]((https://www.jetbrains.com/idea/download/#section=mac))
-3. [Læs DocJava:Komposition](http://www.docjava.dk/objektorienteret_programmering/komposition/komposition.htm)
+1. Installer IntelliJUltimate
+
+ - [Anmod om en student licens hos jetBrains](https://www.jetbrains.com/community/education/#students)
+Scroll ned og tryk 'Apply Now'. Level of Study er Undergraduate. Du skal bruge din @cphbusiness.dk email. Du skal acceptere Account Agreement, men behøver ikke tilmelde dig nyhedsbrevet
+
+ - Du vil modtage en email med et aktiveringslink 
+ [Opret en JetBrains konto](https://account.jetbrains.com/licenses) brug din @cphbusiness.dk mail.
+ Download [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/)
+
+
+2. [Læs DocJava:Komposition](http://www.docjava.dk/objektorienteret_programmering/komposition/komposition.htm)
+
+
 
 se også [Bonusmateriale](./resources.md)
 
 #### Efter lektionen
-Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan sidde med i Open Learning, hvor der vil være mindst en tutor til stede. Opgaverne skal IKKE afleveres.
-[Opgaver](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/5.md)
+De sidste mandagsopgaver:
+[Opgaver](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/6.md)
 
 
 ### Tirsdag: recap + peek (online)
@@ -37,8 +47,11 @@ Brug af debugger i IntelliJ.
 Brug af Processing i IntelliJ
 
 #### Forberedelse:
+- Log på [klassen zoom rum](https://cphbusiness.zoom.us/j/66755584856?pwd=RDRqZjBqSXBsTlR0QjRsTXh0UEFTUT09)  med dit cph login.
+- Tjek at dit camera virker og er tændt når lektionen starter.
 
 ### Onsdag: 
+
 
 #### Forberedelse:
 1. [Coding with John: video om exceptions](https://www.youtube.com/watch?t=1&v=1XAfapkBQjk)

@@ -7,7 +7,7 @@
    permalink: /Java_CLI_Scanner/ressources/
 ---
 
-# Forberedelsesmaterialer samlet
+### Materialer samlet
 1. [Coding with John: Java Main Method Explained - What Does All That Stuff Mean? ](https://youtube.com/watch?t=1&v=P-_Nzi_mCRo?si=4awCCOTDh_U2eCh0)
 2. [Getting to know the Command Line](https://www.davidbaumgold.com/tutorials/command-line/)
 3. [Geeksforgeeks: Scanner (+the scanner bug)](https://www.geeksforgeeks.org/scanner-class-in-java/)
@@ -16,10 +16,9 @@
 7. [docjava.dk: Klasser](http://www.docjava.dk/objektorienteret_programmering/klasser/klasser.htm)
 
 ### Bonusmateriale for ugen
-1. Repetition om compiling og JVM
-   [docjava.dk: Do you speak Java?](http://www.docjava.dk/grundlaeggende_programmering/programmeringssprog/programmeringssprog.htm)
-3. [javapoint:Java main() method](https://www.javatpoint.com/java-main-method)
-4. [Hello world guide](https://efif.sharepoint.com/:b:/r/sites/cph/Lyngby/Shared%20Documents/4.%20Indhold%20%26%20Niveau/DAT/1.sem%20for%C3%A5r%202025/studerende/helloworldCLi.pdf?csf=1&web=1&e=p5ZRA3)
+1.[docjava.dk: Do you speak Java?](http://www.docjava.dk/grundlaeggende_programmering/programmeringssprog/programmeringssprog.htm) Repetition om compiling og JVM
+2.[javapoint:Java main() method](https://www.javatpoint.com/java-main-method)
+3.[Hello world guide](https://efif.sharepoint.com/:b:/r/sites/cph/Lyngby/Shared%20Documents/4.%20Indhold%20%26%20Niveau/DAT/1.sem%20for%C3%A5r%202025/studerende/helloworldCLi.pdf?csf=1&web=1&e=p5ZRA3)
 
 ### Nøgleord:
 - **class:** A template for a new type of object.

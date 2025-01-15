@@ -10,12 +10,11 @@ permalink: /Java_CLI_Scanner/
 # OOP: Java med CLI, Scanner
 
 [Læringsmål for ugen](./learningobjectives.md)
-
-### Mandag: Hello World, CLI
-Vi slipper Processing miljøet, men før vi starter med IntelliJ, skal I lære at skrive kode uden anden hjælp end syntaks high-lighting. I skal installere en tekst editor som I skal skrive koden i.
-
+I denne uge slipper vi Processing miljøet, men før vi starter med IntelliJ, skal I lære at skrive kode uden anden hjælp end syntaks high-lighting.
+obs: i denne uge skal I aflevere jeres første studypoint opgave. 
+### Mandag: Hello World, CLI 
+I skal installere en tekst editor som I skal skrive koden i.
 Her kan I bruge Sublime Text, Atom eller en anden simpel tekst editor. I skal også bruge en Java SDK hvis I ikke allerede har det. (Se "Installation af værktøjer" til højre)
-
 Når du har skrevet noget java kode og gemt det med extension .java, skal den først compiles og så eksekveres fra et command line interface, et tekstbaseret program kaldet Terminal(MAC) eller Command Prompt (PC).
 
 #### Forberedelse:
@@ -73,6 +72,8 @@ se også [Bonusmateriale](./resources.md)
 
 ### Torsdag: Opgavedag
 [Torsdagsopgave 4: Scanner](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-4---Scanner)
-[Afleveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765990)
+[Afleveringslink torsdagsopgaver](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765990)
+[Afleveringslink SP1](https://cphbusiness.mrooms.net/mod/assign/view.php?id=766002)
 
 ### Fredag: review
+Review af torsdagsopgaver med præsentationer af jeres SP1 opgaver.

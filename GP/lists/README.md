@@ -47,3 +47,4 @@ Java API'et indeholder dokumentation for alle Java klasser, fx. klasser til at a
 [Torsdagsopgave 3: arrays, ArrayList and String](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765989)
 
 ### Fredag: review
+Efter review af torsdagsopgaverne bliver I stillet første Studypoint opgave som skal afleveres om 2 uger. [Læs om kravene til opgaven her](). 

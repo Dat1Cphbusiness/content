@@ -1,9 +1,10 @@
 ---
-title: 2. GP - Kontrolstrukturer - Betingelser og Loops
+title: Kontrolstrukturer - Betingelser og Loops
 description: Betingelser og Loops
 layout: default
 nav_order: 2
-has_children: true
+has_children: false
+parent: Flow1 - Grundlæggende Programmering
 permalink: /control_structures/
 ---
 

@@ -1,9 +1,10 @@
 ---
-title: 1. GP - Intro til programmering, Variable og Datatyper
+title: Intro til programmering, Variable og Datatyper
 description: Introduction to programming, variables and datatypes
 layout: default
 nav_order: 1
-has_children: true
+has_children: false
+parent: Flow1 - Grundlæggende Programmering
 permalink: /intro_to_programming/
 ---
 

@@ -2,8 +2,9 @@
 title: 6. OOP - Java med IntelliJ, Filer
 description: filer og kodning af utility klassen FileIO, komposition med Bank eksempel
 layout: default
-nav_order: 6
-has_children: true
+nav_order: 2
+has_children: false
+parent: Flow 2 - Objektorienteret Programmering
 permalink: /Java_IntelliJ-File/
 ---
 
@@ -21,9 +22,17 @@ Med DrinksMenuen i sidste uge kodede vi en dialog mellem bruger og system. Med u
 #### Forberedelse:
  Der findes flere versioner: intelliJ IDEA Edu, IntelliJCommunity og intelliJUltimate. I har licens til ultimate hvis I opretter en konto med jeres cphbusiness email.
 1. Installer IntelliJUltimate
+<details> 
 
  - [Anmod om en student licens hos jetBrains](https://www.jetbrains.com/community/education/#students)
-Scroll ned og tryk 'Apply Now'. Level of Study er Undergraduate. Du skal bruge din @cphbusiness.dk email. Du skal acceptere Account Agreement, men behøver ikke tilmelde dig nyhedsbrevet
+Scroll ned og tryk 'Apply Now'. 
+
+   a. Level of Study er Undergraduate. 
+
+   b. Du skal bruge din @cphbusiness.dk email. 
+
+   c. Du skal acceptere Account Agreement, men behøver ikke tilmelde dig nyhedsbrevet
+
 
  - Du vil modtage en email med et aktiveringslink 
  [Opret en JetBrains konto](https://account.jetbrains.com/licenses) brug din @cphbusiness.dk mail.
@@ -32,7 +41,7 @@ Scroll ned og tryk 'Apply Now'. Level of Study er Undergraduate. Du skal bruge d
 
 2. [Læs DocJava:Komposition](http://www.docjava.dk/objektorienteret_programmering/komposition/komposition.htm)
 
-
+</details> 
 
 se også [Bonusmateriale](./resources.md)
 

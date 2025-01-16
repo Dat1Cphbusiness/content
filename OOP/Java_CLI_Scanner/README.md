@@ -1,9 +1,10 @@
 ---
-title: 5. OOP - Java med CLI, Scanner
+title: Java med CLI, Scanner
 description:  OOP - Java med texteditor - Scanner, fejlhåndtering, (Drinksmenu/TextUI)
 layout: default
-nav_order: 5
-has_children: true
+nav_order: 1
+has_children: false
+parent: Flow 2 - Objektorienteret Programmering
 permalink: /Java_CLI_Scanner/
 ---
 
@@ -25,7 +26,7 @@ Når du har skrevet noget java kode og gemt det med extension .java, skal den f�
    
    Tjek om Java er installeret: åbn din Terminal(mac) eller CommandPrompt(PC) og skriv:
    ```java -version```
-   [Detaljeret guide ](https://efif.sharepoint.com/:b:/r/sites/cph/Lyngby/Shared%20Documents/4.%20Indhold%20%26%20Niveau/DAT/1.sem%20for%C3%A5r%202025/studerende/helloworldCLi.pdf?csf=1&web=1&e=p5ZRA3)
+   [Detaljeret guide ](../../guides/helloworldCLi.pdf)
 
 
 3. Se [Coding with John: Java Main Method Explained - What Does All That Stuff Mean? ](https://youtube.com/watch?t=1&v=P-_Nzi_mCRo?si=4awCCOTDh_U2eCh0)

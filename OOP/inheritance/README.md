@@ -1,10 +1,10 @@
-
 ---
 title: 7. OOP - Nedarvning, Interfaces, Polymorfi
 description: Nedarvning
 layout: default
-nav_order: 7
-has_children: true
+nav_order: 3
+has_children: false
+parent: Flow 2 - Objektorienteret Programmering
 permalink: /inheritance/
 ---
 

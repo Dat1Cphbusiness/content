@@ -9,6 +9,10 @@ logo: '/assets/images/cphbusiness.png'
 favicon_ico: '/assets/images/favicon.ico'
 aux_links:
   Repository: https://github.com/Dat1Cphbusiness/content
+  Moodlerum: https://cphbusiness.mrooms.net/course/view.php?id=15022
+  Slides:
+
+
 nav_enabled: true
 heading_anchors: true
 search_enabled: true

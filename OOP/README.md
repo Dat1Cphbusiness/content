@@ -7,6 +7,9 @@ has_children: true
 permalink: /OOP/
 ---
 
+# Flow 2 - Objektorienteret Programmering
+
+![Learning arches](../assets/images/learningArchesFlow2.png)
 
 I Flow 1 beskæftigede vi os primært med den imperative og procedurale del af Java, med fokus på at bygge simple programmer med programmeringens grundelementer. 
 I Flow 2 åbner vi op for nogle af de sider af Java som gør det egnet til at bygge større applikationer/systemer, med mange klasser. 

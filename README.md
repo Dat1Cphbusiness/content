@@ -7,6 +7,8 @@ permalink: /
 
 # DAT 1. semester
 
+![learning arches sem 1](assets/images/learningArchesSem1.png)
+
 ## Kursusmaterialer
 
 1. [GP - Intro til programmering: Variable og Datatyper](./intro_to_programming)
@@ -28,7 +30,7 @@ permalink: /
 
 1. [Grundlæggende programmering](./GP/README.md)
 2. [OOP](./OOP/README.md)
-3. [Systemudvikling](./systemdevelopment/README.md)
+3. [Systemudvikling](Sys/README.md)
 4. [SQL](./data/databases/README.md)
 5. [Teamwork og gruppekontrakt](./teamwork/gruppekontrakt.docx)
 

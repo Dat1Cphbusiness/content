@@ -1,6 +1,6 @@
 ---
 title: Java med CLI, Scanner
-description:  OOP - Java med texteditor - Scanner, fejlhåndtering, (Drinksmenu/TextUI)
+description:  Java med CLI, Scanner
 layout: default
 nav_order: 1
 has_children: false
@@ -8,11 +8,16 @@ parent: Flow 2 - Objektorienteret Programmering
 permalink: /Java_CLI_Scanner/
 ---
 
+
 # OOP: Java med CLI, Scanner
 
 [Læringsmål for ugen](./learningobjectives.md)
-I denne uge slipper vi Processing miljøet, men før vi starter med IntelliJ, skal I lære at skrive kode uden anden hjælp end syntaks high-lighting.
-obs: i denne uge skal I aflevere jeres første studypoint opgave. 
+
+I denne uge slipper vi Processing miljøet, men før vi starter med IntelliJ, skal I lære at skrive kode uden anden hjælp end syntaks high-lighting. 
+
+ > [!NOTE]  
+ > i denne uge skal I aflevere jeres første studypoint opgave, [SP1](../../projects/SP1). 
+
 ### Mandag: Hello World, CLI 
 I skal installere en tekst editor som I skal skrive koden i.
 Her kan I bruge Sublime Text, Atom eller en anden simpel tekst editor. I skal også bruge en Java SDK hvis I ikke allerede har det. (Se "Installation af værktøjer" til højre)

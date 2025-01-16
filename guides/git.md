@@ -1,4 +1,12 @@
-
+---
+title: Git
+description:  guides relating to git
+layout: default
+nav_order: 1
+has_children: false
+parent: Guides
+permalink: /Guides/git
+---
 
 ### Start et nyt projekt med kode fra et github repo
 

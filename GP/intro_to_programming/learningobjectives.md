@@ -2,13 +2,13 @@
 title: Læringsmål
 description: Læringsmål for introduktionsuge 
 layout: default
-parent: Intro til programmering
+parent:  Intro til programmering, Variable og Datatyper
 nav_order: 1
 permalink:  /intro_to_programming/learningobjectives/
 ---
 
 
-# Læringsmål for ugen
+# Læringsmål
 
 Efter denne uge er det meningen at du kan...
 

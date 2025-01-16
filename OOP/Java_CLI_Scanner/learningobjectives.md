@@ -2,10 +2,13 @@
 title: Læringsmål
 description: Læringsmål
 layout: default
-parent: Java_CLI_Scanner
+parent:  Java_CLI_Scanner
 nav_order: 1
-permalink: Java_CLI_Scanner/learningobjectives/
+permalink: /Java_CLI_Scanner/learningobjectives/
 ---
+
+
+
 # Læringsmål for ugen
 
 

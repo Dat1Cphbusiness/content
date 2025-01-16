@@ -5,7 +5,7 @@ layout: default
 nav_order: 2
 has_children: false
 parent: Guides
-permalink: /Guides/
+permalink: /Guides/plantUML
 ---
 
 ### Aktivere plantUML i intelliJ

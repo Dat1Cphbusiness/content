@@ -6,7 +6,10 @@ nav_order: 1
 has_children: true
 permalink: /GP/
 ---
-[](assets/images/learningArchesFlow1.png)
+
+# Flow1 - Grundlæggende Programmering
+
+![Learning arches](../assets/images/learningArchesFlow1.png)
 
 Flow 1 strækker sig over 4 uger. 
 Her får du lært programmeringens helt basale elementer. 

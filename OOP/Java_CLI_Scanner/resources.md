@@ -4,7 +4,7 @@
    layout: default
    parent: Java_CLI_Scanner
    nav_order: 3
-   permalink: /Java_CLI_Scanner/ressources/
+   permalink: /Java_CLI_Scanner/resources/
 ---
 
 ### Materialer samlet
@@ -15,7 +15,7 @@
 6. [docjava.dk: objektorienteret programmering](http://www.docjava.dk/objektorienteret_programmering/oop.htm)
 7. [docjava.dk: Klasser](http://www.docjava.dk/objektorienteret_programmering/klasser/klasser.htm)
 
-### Bonusmateriale for ugen
+### Bonusmateriale 
 1.[docjava.dk: Do you speak Java?](http://www.docjava.dk/grundlaeggende_programmering/programmeringssprog/programmeringssprog.htm) Repetition om compiling og JVM
 2.[javapoint:Java main() method](https://www.javatpoint.com/java-main-method)
 3.[Hello world guide](https://efif.sharepoint.com/:b:/r/sites/cph/Lyngby/Shared%20Documents/4.%20Indhold%20%26%20Niveau/DAT/1.sem%20for%C3%A5r%202025/studerende/helloworldCLi.pdf?csf=1&web=1&e=p5ZRA3)

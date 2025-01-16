@@ -1,5 +1,5 @@
 ---
-title: 7. OOP - Nedarvning, Interfaces, Polymorfi
+title: Nedarvning, Interfaces, Polymorfi
 description: Nedarvning
 layout: default
 nav_order: 3
@@ -10,6 +10,7 @@ permalink: /inheritance/
 
 
 # Nedarvning, Interface, Polymorfi
+[Læringsmål](./learningobjectives)
 
 ## Mandag
 
@@ -43,5 +44,10 @@ I lektionen arbejder vi udfra dette projekt
 ## Torsdag
 1. [Torsdagsopgaver](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-6---polymorphi-og-stacktrace)
 2. [Aflevering](https://cphbusiness.mrooms.net/mod/assign/view.php?id=766001)
+
+
 ## Fredag
 Review og [SP2](./projects/SP2/)
+
+
+[Alle materialer til denne uge samlet et sted](./resources.md)

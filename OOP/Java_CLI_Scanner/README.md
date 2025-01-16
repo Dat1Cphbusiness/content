@@ -2,7 +2,7 @@
 title: 5. OOP - Java med CLI, Scanner
 description:  OOP - Java med texteditor - Scanner, fejlhåndtering, (Drinksmenu/TextUI)
 layout: default
-nav_order: 2
+nav_order: 5
 has_children: true
 permalink: /Java_CLI_Scanner/
 ---

@@ -2,7 +2,7 @@
 title: 1. GP - Intro til programmering, Variable og Datatyper
 description: Introduction to programming, variables and datatypes
 layout: default
-nav_order: 2
+nav_order: 1
 has_children: true
 permalink: /intro_to_programming/
 ---

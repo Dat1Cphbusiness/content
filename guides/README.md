@@ -2,7 +2,7 @@
 title: Guides
 description: A collection of guides
 layout: default
-nav_order: 6
+nav_exclude: true
 has_children: true
 permalink: /Guides/
 ---

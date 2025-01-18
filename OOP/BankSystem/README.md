@@ -1,3 +1,4 @@
+nav_exclude: true
 # BankSystem - TurnbasedGame
 
 The BankSystem java project is used to demonstrate, discuss and let students try-out multiple level 2 java programming techniques.

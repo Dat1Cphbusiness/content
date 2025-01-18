@@ -1,5 +1,5 @@
 ---
-title: Nedarvning
+title:  Resources
 description: Diverse kilder 
 layout: default
 parent: Java_CLI_Scanner

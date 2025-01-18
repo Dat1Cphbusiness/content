@@ -1,5 +1,5 @@
 ---
-title: Organisering af koden
+title:  Resources
 description: Diverse kilder funktioner og objekter
 layout: default
 parent: organising_code

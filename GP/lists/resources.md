@@ -1,5 +1,5 @@
 ---
-title: Lister
+title:  Resources
 description: Diverse kilder array og ArrayList
 layout: default
 parent: lists

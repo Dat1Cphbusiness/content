@@ -1,10 +1,10 @@
 ---
 title: Studypoint Projekter
-description:Studypoint Projekter
+description: Studypoint Projekter
 layout: default
-nav_order: 5
+nav_exclude: true
 has_children: true
-permalink: /Projects/
+permalink: /projects/
 ---
 1. [SP1: Skuffeprojekt](./SP1)
 2. [SP2: Bibliotekspenge](./SP2)

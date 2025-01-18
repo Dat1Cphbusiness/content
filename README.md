@@ -26,15 +26,3 @@ permalink: /
 13. [workshop (vælg GUI eller Algoritmer)](./workshop/README.md)
 14. [Projekt - ICE (SP4)](./projects/SP4/README.md)
 
-## Bonus materiale og selvstudier
-
-1. [Grundlæggende programmering](./GP/README.md)
-2. [OOP](./OOP/README.md)
-3. [Systemudvikling](Sys/README.md)
-4. [SQL](./data/databases/README.md)
-5. [Teamwork og gruppekontrakt](./teamwork/gruppekontrakt.docx)
-
-## Værktøjskasse / Toolbox
-
-Vi har samlet en række generelle vejledninger i en [Toolbox](./toolbox/README.md)
-

@@ -1,8 +1,8 @@
 ---
-title: Java med IntelliJ, File
+title: Resources
 description: Diverse kilder Java med IntelliJ, File
 layout: default
-parent: Java_IntelliJ_File
+parent: Java med IntelliJ, Filer
 nav_order: 3
 permalink: /Java_IntelliJ_File/resources/
 ---

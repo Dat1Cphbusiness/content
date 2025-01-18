@@ -1,5 +1,5 @@
 ---
-title: Intro til Programmering Ressourcer
+title:  Resources
 description: Diverse kilder til Intro til Programmering
 layout: default
 parent: Intro til Programmering

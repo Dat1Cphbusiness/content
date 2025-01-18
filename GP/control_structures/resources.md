@@ -1,5 +1,5 @@
 ---
-title: Kontrolstrukturer
+title: Resources
 description: Diverse kilder til Kontrolstrukturer
 layout: default
 parent: Kontrolstrukturer

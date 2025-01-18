@@ -1,5 +1,5 @@
 ---
-   title: Java, CLI og Scanner
+   title:  Resources
    description: Diverse kilder Java, CLI og Scanner
    layout: default
    parent: Java_CLI_Scanner

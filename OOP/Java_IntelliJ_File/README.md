@@ -5,7 +5,7 @@ layout: default
 nav_order: 2
 has_children: false
 parent: Flow 2 - Objektorienteret Programmering
-permalink: /Java_IntelliJ-File/
+permalink: /Java_IntelliJ_File/
 ---
 
 

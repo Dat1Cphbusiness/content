@@ -19,7 +19,7 @@ I denne uge slipper vi Processing miljøet, men før vi starter med IntelliJ, sk
  > i denne uge skal I aflevere jeres første studypoint opgave, [SP1](../../projects/SP1). 
 
 ### Mandag: Hello World, CLI 
-I skal installere en tekst editor som I skal skrive koden i.
+I skal installere en tekst editor som I skal skrive koden i. 
 Her kan I bruge Sublime Text, Atom eller en anden simpel tekst editor. I skal også bruge en Java SDK hvis I ikke allerede har det. (Se "Installation af værktøjer" til højre)
 Når du har skrevet noget java kode og gemt det med extension .java, skal den først compiles og så eksekveres fra et command line interface, et tekstbaseret program kaldet Terminal(MAC) eller Command Prompt (PC).
 

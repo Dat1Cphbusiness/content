@@ -20,9 +20,8 @@ permalink: /
 7. [OOP - Nedarvning, Interfaces, Polymorphi (SP2)](./inheritance)
 8. [Systemudvikling - analyse og design (Matador)](./OOAD)
 9. [Systemudvikling - implementering og test (Matador)](./sprints)
-10. [Projekt - Streamingtjeneste(SP3)](./SP3)
-11. [Makerlab](./makerlab)
-12. [Datastrukturer og databaser](./data/README.md)
-13. [workshop (vælg GUI eller Algoritmer)](./workshop/README.md)
-14. [Projekt - ICE (SP4)](./projects/SP4/README.md)
+10. [Teknologi og Innovation: Makerlab](./makerlab)
+11. [Teknologi og Innovation: Datastrukturer og databaser](./data/README.md)
+12. [Teknologi og Innovation: workshop (vælg GUI eller Algoritmer)](./workshop/README.md)
+13. [Teknologi og Innovation: Projekt - ICE (SP4)](./projects/SP4)
 

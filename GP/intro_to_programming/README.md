@@ -11,7 +11,9 @@ permalink: /intro_to_programming/
 # Intro til programmering
 [Læringsmål for ugen](./learningobjectives.md)
 
-# Mandag: Hello World i Processing
+# Mandag
+Hello World i Processing
+
 I har allerede installeret og måske skrevet jeres første linjer kode i Processing IDE'et.
 Vi kigger på de øvelser der var i bogen og arbejder med at skrive pseudokode.
 
@@ -30,9 +32,9 @@ Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan 
 
 
 # Tirsdag
-Bemærk lektionen foregår online.
 
 Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslektionen.
+**NB! lektionen foregår online.**
 
 
 #### Forberedelse:
@@ -59,10 +61,11 @@ Der vil være tutorer til stede fra kl. 12.30 i Open Learning. Man kan møde op 
 Ligesom opgaverne ligger i deres eget git repository, også kaldet "remote repository", skal I også lave et remote git repository til jeres løsninger. 
 Der er vejledning til hvordan I sætter det op i den første opgave. 
 
-Man afleverer gennem afleveringslink på Moodle: [Afleveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765986)
-(indsæt linket til dit repository)
+Man afleverer gennem afleveringslink på Moodle:
 
-[Torsdagsopgaver-0-variables](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-0-variables)
+- [Torsdagsopgaver-0-variables](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-0-variables)
+- [Afleveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765986)
+(indsæt linket til dit repository)
 
 # Fredag: review
 

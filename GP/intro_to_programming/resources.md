@@ -7,8 +7,8 @@ nav_order: 3
 permalink: /intro_to_programming/resources/
 ---
 
-# Ekstra materiale for ugen 
-Du kan klare dig med Learning Processing bogen i de første 4 uger af semesteret. Hvis du har overskud, kan du styrke din forståelse med disse ekstra materialer.
+# Ekstra materiale 
+Du kan klare dig med Learning Processing bogen, men du kan styrke din forståelse med disse ekstra materialer.
 
 # Mandag
 

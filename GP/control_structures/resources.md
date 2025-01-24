@@ -7,7 +7,8 @@ nav_order: 3
 permalink: /control_structures/resources/
 ---
 
-# Ekstra materiale for ugen
+# Ekstra materiale
+Du kan klare dig med Learning Processing bogen, men du kan styrke din forståelse med disse ekstra materialer.
 
 ## Mandag - Conditions
 ### Reading

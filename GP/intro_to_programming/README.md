@@ -11,23 +11,27 @@ permalink: /intro_to_programming/
 # Intro til programmering
 [Læringsmål for ugen](./learningobjectives.md)
 
-### Mandag: Hello World i Processing
+# Mandag: Hello World i Processing
 I har allerede installeret og måske skrevet jeres første linjer kode i Processing IDE'et.
 Vi kigger på de øvelser der var i bogen og arbejder med at skrive pseudokode.
 
 #### Forberedelse:
-Læs chapter 1 og chapter 2 i Learning Processing bogen, **inklusiv øvelserne**.
-(Skip projektet på side 45)
+Læs chapter 1:"Pixels" og chapter 2:"Processing" i Learning Processing bogen, **inklusiv øvelserne**.
 
+Skip projektet på side 45
 
-[Bonusmateriale](./resources.md)
+Chapter 3:"Interaction", er spændende men ikke obligatorisk.
+
+[ekstra materiale](resources.md#Mandag)
 
 #### Efter lektionen
 Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan sidde med i Open Learning, hvor der vil være mindst en tutor til stede. Opgaverne skal IKKE afleveres.
 [Opgaver](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/1.md)
 
 
-### Tirsdag: recap + peek (online)
+# Tirsdag
+Bemærk lektionen foregår online.
+
 Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslektionen.
 
 
@@ -37,22 +41,30 @@ Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslek
  - Tjek at dit camera virker og er tændt når lektionen starter.
 
 
-### Onsdag: Variables and datatypes
-Her kan du finde en samling af videoer og øvelser. Nogle af øvelserne er dem som du også finder i bogen [video and exercises](resources.md#Variables and Datatypes)
+# Onsdag
+
+Variables og datatyper.
 
 #### Forberedelse:
-Læs chapter 4 in Learning Processing inklusiv øvelserne i bogen.
+Læs chapter 4:"Variables" i Learning Processing bogen, **inklusiv øvelserne**.
+
+ [ekstra materiale](resources.md#Onsdag)
 
 
-### Torsdag: Opgavedag
-Første gang med det ugentlige opgavesæt, som skal afleveres senest torsdag aften. Man kan lave opgaverne i fællesskab, men man afleverer individuelt.
-Ligesom opgaverne ligger i deres eget git repository, også kaldet "remote repository", skal I også lave et remote git repository til jeres løsninger. Der er vejledning til hvordan I sætter det op i den første opgave.
-Man afleverer gennem afleveringslink på Moodle. Det er linket til det repository, I skal aflevere.
-Den første opgave vil guide jer igennem at oprette og forbinde til jeres eget GitHub repository. [Afleveringslink]() indsæt linket til dit repository. Der vil være tutorer til stede i Open Learning.
+# Torsdag
+Første gang med det ugentlige opgavesæt, som skal afleveres senest torsdag aften.
+
+Der vil være tutorer til stede fra kl. 12.30 i Open Learning. Man kan møde op her og lave opgaverne i fællesskab, men man afleverer individuelt.
+
+Ligesom opgaverne ligger i deres eget git repository, også kaldet "remote repository", skal I også lave et remote git repository til jeres løsninger. 
+Der er vejledning til hvordan I sætter det op i den første opgave. 
+
+Man afleverer gennem afleveringslink på Moodle: [Afleveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765986)
+(indsæt linket til dit repository)
 
 [Torsdagsopgaver-0-variables](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-0-variables)
 
-### Fredag: review
+# Fredag: review
 
 #### Hvad er review og hvorfor skal vi det?
 Review er en gennemgang af torsdagsøvelserne. Ved gennemgangen skiftes I til at præsentere egen kode. Koden behøver på ingen måde at være flot eller fungere for den sags skyld. Man viser bare hvad man fik lavet til en given opgave, og så kan det være vi ændrer lidt på den eller koder den færdig i fælleskab. Ofte vil en studerende vise kode der fuldstændig løser opgaven. Det er også fint, men vi undervisere vil ligeså gerne se mange forskellige bud på løsningen da det er lærerigt at se hvordan et problem kan løses på mange måder. Det kan også foregå sådan, at vi koder løsningen, mens I byder ind med kommentarer til hvad der skrives.

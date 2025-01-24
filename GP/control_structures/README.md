@@ -11,7 +11,7 @@ permalink: /control_structures/
 # Konstrolstrukturer: Betingelser og Loops
 [Læringsmål for ugen](./learningobjectives.md)
 
-### Mandag: Betingelser
+# Mandag: Betingelser
 Lektion om den ene af de to konstrolstukturer vi skal se på i denne uge: conditions (betingelser)
 
 #### Forberedelse
@@ -22,7 +22,7 @@ Læs i Learning Processing, Chapter 5 :"Conditionals" (24 sider), **inklusiv øv
 
 [Opgaver til efter lektionen](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/2.md)
 
-### Tirsdag: recap + peek (online)
+# Tirsdag: recap + peek (online)
 Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslektionen.
 
 #### Forberedelse:
@@ -30,8 +30,12 @@ Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslek
 - Tjek at dit camera er tændt.
 
 
-### Onsdag: Loops
+# Onsdag: Loops
 Lektion om den anden af de to konstrolstukturer: Loops (løkker)
 #### Forberedelse
 Læs i Learning Processing: Kapitel 6, "Loops" (20 sider), **inklusiv øvelserne**.
 
+# Torsdag: Opgaver
+
+
+# Fredag: Review

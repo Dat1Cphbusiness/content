@@ -10,7 +10,7 @@ permalink: /intro_to_programming/resources/
 # Ekstra materiale for ugen 
 Du kan klare dig med Learning Processing bogen i de første 4 uger af semesteret. Hvis du har overskud, kan du styrke din forståelse med disse ekstra materialer.
 
-## Mandag - intro til Programmering
+# Mandag
 
 ### Reading
 DocJava er en udmærket resource, på dansk. Eksemplerne er med "ren" Java, og du vil derfor støde på syntaks som ikke er nødvendig i Processing. Fx. bruger man <code>System.out.println</code> i stedet for <code>println</code> og i stedet for en setup metode, starter man i en metode der ser sådan ud: <code>public static void main(String[] args)</code>
@@ -27,7 +27,7 @@ DocJava er en udmærket resource, på dansk. Eksemplerne er med "ren" Java, og d
 2. [Learning Processing: Exercises (chapter 1 and 2)](http://learningprocessing.com/exercises/) (samme øvelser som i bogen )
 
 
-## Onsdag - Variables and Datatypes
+# Onsdag
 
 ### Reading
 1. [w3Schools: Java Variables](https://www.w3schools.com/java/java_variables.asp)

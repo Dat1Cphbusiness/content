@@ -11,10 +11,10 @@ permalink: /control_structures/learningobjectives/
 
 ## Betingelser
 Du kender betydningen af... 
-- ```if```, ```switch``` og ```if-else ``` -statements
+- ```if```, ```switch``` og ```if-else``` -statements
 - boolske udtryk/boolean expressions
 - code-block
-- logiske operatorer
+- logiske operatorer 
 - algoritme
 - betingelse/condition
 - evaluere/evaluate.

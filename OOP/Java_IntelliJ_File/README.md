@@ -13,7 +13,9 @@ permalink: /Java_IntelliJ_File/
 
 [Læringsmål for ugen](./learningobjectives.md)
 
-### Mandag: IntelliJ
+# Mandag 
+
+Hello world, IntelliJ
 
 I dag skal I installere et IDE der anvendes professionelt til udvikling af software.
 For at lære IntelliJ at kende arbejder vi på et lille bank system og lærer også noget om composition.
@@ -50,29 +52,28 @@ De sidste mandagsopgaver:
 [Opgaver](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/6.md)
 
 
-### Tirsdag: recap + peek (online)
+# Tirsdag: recap + peek (online)
 Recap og et kig på forberedelse til onsdag
-Brug af debugger i IntelliJ.
-Brug af Processing i IntelliJ
+Vi skal også se lidt på IntelliJ's redskaber til at hjælpe dig med at finde andre typer af fejl.
+Måske når vi også at se på hvordan man kan bruge Processing i IntelliJ
 
 #### Forberedelse:
+- [Coding with John: video om debugger](https://www.youtube.com/watch?t=1&v=aqcJsKdjjvU)
 - Log på [klassen zoom rum](https://cphbusiness.zoom.us/j/66755584856?pwd=RDRqZjBqSXBsTlR0QjRsTXh0UEFTUT09)  med dit cph login.
-- Tjek at dit camera virker og er tændt når lektionen starter.
 
-### Onsdag: 
+# Onsdag 
 
-
+Lektion om Filer. Når man henter en fil ind i et Java program, er der god chance for at noget går galt, fx at filen ikke findes. Det kaldes runtime fejl og de skal håndterer man med exceptions. 
 #### Forberedelse:
-1. [Coding with John: video om exceptions](https://www.youtube.com/watch?t=1&v=1XAfapkBQjk)
-2. [w3schools: Exceptions](https://www.w3schools.com/java/java_try_catch.asp)
-3. [w3schools:side om at læse fra fil](https://www.w3schools.com/java/java_files_read.asp).
-4. [Coding with John: video om debugger](https://www.youtube.com/watch?t=1&v=aqcJsKdjjvU)
+1. [w3schools:side om at læse fra fil](https://www.w3schools.com/java/java_files_read.asp).
+2. [Coding with John: video om exceptions](https://www.youtube.com/watch?t=1&v=1XAfapkBQjk)
+3. [w3schools: Exceptions](https://www.w3schools.com/java/java_try_catch.asp)
 
-se også [Bonusmateriale](./resources.md)
+[Ekstra materiale](./resources.md)
 
 
-### Torsdag: Opgavedag
-[Torsdagsopgave 5: Files og Composition](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-5---Files-and-Composition)
-[Afleveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765999)
+# Torsdag
+- [Torsdagsopgave 5: Files og Composition](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-5---Files-and-Composition)
+- [Afleveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765999)
 
-### Fredag: review
+# Fredag: review

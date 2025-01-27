@@ -7,6 +7,8 @@ has_children: false
 parent: Flow 3 - Systemudvikling
 permalink: /OOAD/
 ---
+
+<!--
 # OO analyse og design
 Rytmen er en smule anderledes i denne uge. Der er fysisk fremmøde tirsdag og tilgengæld er der ingen øvelser på torsdag. 
 Fredag har vi derfor ikke review, men går i gang med at kode.
@@ -50,7 +52,7 @@ Den systemansvarlige har skrevet nogle på forhånd, som vi skal kigge nærmere 
 - Finde kode vi kan genbruge, og tilpasse den, så den adlyder usecase 1 og 2.
 
 ### Forberedelse
-[læs use cases: (ready on tuesday)]()<!--(https://github.com/tessG/Monopoly24/wiki/Use%E2%80%90cases)-->
+[læs use cases: (ready on tuesday)](https://github.com/tessG/Monopoly24/wiki/Use%E2%80%90cases)
 
 # Onsdag
 Vi har etableret vores projektkode med noget genbrugt kode som har to ting, vi skal bruge: mekanismer til _datapersistens_ og _brugerdialog_.
@@ -70,3 +72,4 @@ Igang med at bygge spillepladen
 #### Projektmål:
 - Vi har fundamentet til et turbaseret spil.
 - vi har en spilleplade.
+-->

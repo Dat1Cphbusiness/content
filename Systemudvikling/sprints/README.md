@@ -10,7 +10,7 @@ permalink: /sprints/
 
 # Kollaborativ kodning i sprints
 
-
+<!--
 
 I sidste uge har vi analyseret og designet Matadorspillet, og står nu med en række use-cases, sekvensdiagrammer og klassediagrammer.
 
@@ -54,6 +54,8 @@ Ingen undervisning og ingen øvelser. Se video [Coding with John: unit testing](
 
 ### Træn unit testing
 Test og find flere fejl i vores kode, og præsenter dem for afdelingen i morgen.
-Hvordan ? [Se guide](https://cphbusiness.mrooms.net/mod/book/view.php?id=766010&chapterid=40990)
+Hvordan ? [Se guide](../../guides/unittesting.md)
 # Fredag
 Kodning af hængepartier. Repetition af unit testing. Igang med SP3
+
+-->

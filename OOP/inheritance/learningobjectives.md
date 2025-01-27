@@ -12,7 +12,7 @@ permalink: /inheritance/learningobjectives/
 - Du kan anvende data fra brugeren til at oprette objekter i systemet. 
 - Du kan afkode UML notation (klassediagram og sekvensdiagram) og anvende det som et redskab i implementeringsfasen. 
 - Du kender forskel på checked og unchecked Exceptions 
-- Du kender til de keywords vi bruger for at kode mere avanceret OOP:
+- Du kender syntaks til nedarvning herunder keywords:
    - _extends_
    - _implements_
    - _abstract_

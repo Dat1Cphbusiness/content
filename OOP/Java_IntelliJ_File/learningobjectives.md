@@ -20,3 +20,5 @@ permalink: /Java_IntelliJ-File/learningobjectives/
 - Kender til en metode hvormed indlæst data omsættes til objekter i koden.
 
 - Kan dokumentere en klasse (incl. felter, metoder og acces modifiers) med PlantUML.
+
+- kender til datapersistering med fil

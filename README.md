@@ -9,6 +9,16 @@ permalink: /
 
 ![learning arches sem 1](assets/images/learningArchesSem1.png)
 
+
+
+Selve afviklingen af semesteret foregår via Moodle. 
+På Moodle kan se tid/sted for undervisningen og hvad der arbejdes med hvornår. Det er på Moodle man registrerer grupper og afleverer sine opgaver.
+Detaljer om indholdet og links til materialer du skal bruge til din forberedelse ligger her på GitHub.
+
+Du kan bruge menuen til venstre, eller søgefunktionen, så du hurtigt kan finde materialerne uden helt at vide hvor de ligger.
+
+
+<!--
 ## Kursusmaterialer
 
 1. [GP - Intro til programmering: Variable og Datatyper](./intro_to_programming)
@@ -25,3 +35,4 @@ permalink: /
 12. [Teknologi og Innovation: workshop (vælg GUI eller Algoritmer)](./workshop/README.md)
 13. [Teknologi og Innovation: Projekt - ICE (SP4)](./projects/SP4)
 
+-->

@@ -3,11 +3,11 @@ title: SP2
 description: Opgave som afslutning på OOP teori forløb
 layout: default
 parent: SP2
-nav_order: 3
+nav_order: 2
 permalink: /SP2/
 ---
 
-### SP2, Flow 2 studypoint opgave
+### SP2 Bibliotekspenge
 Opgaven kræver viden om nedarvning og polymorphi. 
 Opgaven skal afleveres torsdag i næste uge.
 

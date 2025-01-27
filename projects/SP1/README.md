@@ -1,12 +1,12 @@
 ---
 title: SP1
-description: Fri opgave hvor du demonstrerer alle de grundlæggende programmeringskoncepter
+description: Opgave hvor du demonstrerer alle de grundlæggende programmeringskoncepter
 layout: default
 parent: SP1
-nav_order: 3
+nav_order: 1
 permalink: /SP1/
 ---
-# SP1 Skuffeprojektet
+# SP1 - Skuffeprojektet
 I første studypoint opgave demonstrerer du at du har fået styr det vi kalder byggeklodserne indenfor programmering. 
 
 Opgaven laves i Processing, og afleveres lige inden vi går over til IntelliJ.

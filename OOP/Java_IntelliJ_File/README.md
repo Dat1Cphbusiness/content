@@ -45,7 +45,7 @@ Scroll ned og tryk 'Apply Now'.
 
 </details> 
 
-se også [Bonusmateriale](./resources.md)
+se også [Ekstra materiale](./resources.md)
 
 #### Efter lektionen
 De sidste mandagsopgaver:

@@ -10,12 +10,11 @@ permalink: /
 ![learning arches sem 1](assets/images/learningArchesSem1.png)
 
 
+Velkommen til dat1's gitHub sider. Her finder du detaljer om det faglige indhold, hvordan du skal forberede dig inden en lektion, samt links til artikler og videomateriale.
 
-Selve afviklingen af semesteret foregår via Moodle. 
-På Moodle kan se tid/sted for undervisningen og hvad der arbejdes med hvornår. Det er på Moodle man registrerer grupper og afleverer sine opgaver.
-Detaljer om indholdet og links til materialer du skal bruge til din forberedelse ligger her på GitHub.
+Alt det praktiske finder du på Moodle. Der kan du se tid/sted for undervisningen, aflevere dine opgaver, registrere grupper, se nyheder fra din underviser og finde kontaktinformation.
 
-Du kan bruge menuen til venstre, eller søgefunktionen, så du hurtigt kan finde materialerne uden helt at vide hvor de ligger.
+Brug menuen til venstre, eller start fra flowplanen i Moodle hvor der linkes direkte til den aktuelle uge.
 
 
 <!--

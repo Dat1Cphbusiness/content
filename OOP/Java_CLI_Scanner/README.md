@@ -64,14 +64,13 @@ Vi skal også arbejde med input fra brugeren. Med Scanner klassen får vi funkti
 
 #### Forberedelse:
 
-1. [ThinkJava: Læs kapitel 11](https://greenteapress.com/thinkjava6/thinkjava.pdf)
+1. [Geeksforgeeks: Scanner (+the scanner bug)](https://www.geeksforgeeks.org/scanner-class-in-java/)
+_________
+2. VIGTIG: [ThinkJava: Læs kapitel 11](https://greenteapress.com/thinkjava6/thinkjava.pdf) Test din forståelse med [disse nøgleord](./resources.md)
+3. [Coding with jonh: The Constructor](https://www.youtube.com/watch?v=pgBk8HC7jbU&ab_channel=CodingwithJohn)
+4. [Coding with John: The this keyword](https://www.youtube.com/watch?v=ETLHbHenW44&ab_channel=CodingwithJohn)
 
-Test din forståelse med [disse nøgleord](./resources.md).
-
-2. [Geeksforgeeks: Scanner (+the scanner bug)](https://www.geeksforgeeks.org/scanner-class-in-java/)
-
-
- [Ekstra materiale](./resources.md)
+[Ekstra materiale](./resources.md)
 
 
 

@@ -9,7 +9,7 @@ permalink: /Java_IntelliJ_File/
 ---
 
 
-# OOP: Java med IntelliJ, Filer
+# Java med IntelliJ, Filer
 
 [Læringsmål for ugen](./learningobjectives.md)
 
@@ -63,7 +63,11 @@ Måske når vi også at se på hvordan man kan bruge Processing i IntelliJ
 
 # Onsdag 
 
-Lektion om Filer. Når man henter en fil ind i et Java program, er der god chance for at noget går galt, fx at filen ikke findes. Det kaldes runtime fejl og de skal håndterer man med exceptions. 
+Lektion om Filer. Når man henter en fil ind i et Java program, er der god chance for at noget går galt, fx at filen ikke findes. Det kaldes runtime fejl og de skal håndterer man med exceptions.
+
+Vi kigger på hvordan man kan hente et programs tilstand og persistere den, ved at læse fra og skrive data til en fil.
+Vi taler også mere om Exceptions.
+
 #### Forberedelse:
 1. [w3schools:side om at læse fra fil](https://www.w3schools.com/java/java_files_read.asp).
 2. [Coding with John: video om exceptions](https://www.youtube.com/watch?t=1&v=1XAfapkBQjk)

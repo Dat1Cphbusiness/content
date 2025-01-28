@@ -5,7 +5,7 @@ layout: default
 nav_order: 2
 has_children: false
 parent: Flow 3 - Systemudvikling
-permalink: /sprints/
+permalink: /Systemudvikling/sprints/
 ---
 
 # Kollaborativ kodning i sprints

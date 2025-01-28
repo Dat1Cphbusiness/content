@@ -1,4 +1,3 @@
-
 ---
 title: SP3 projektuge
 description: SP3 projektuge
@@ -6,14 +5,14 @@ layout: default
 nav_order: 3
 has_children: false
 parent: Flow 3 - Systemudvikling
-permalink: /SP3
+permalink: /SP3/
 ---
 # SP3 Projektuge
 
 
 # Mandag - Torsdag
 
-Selvstændigt arbejde i projektgrupper på [SP3 opgaven](../../projects/SP3).
+Selvstændigt arbejde i projektgrupper på [SP3 opgaven](../../projects/SP3/).
 
 Vejledning tilgængelig hver dag (Tine i det normale lektionstidsrum)
 

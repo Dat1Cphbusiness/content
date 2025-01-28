@@ -2,7 +2,7 @@
 title: Datastrukturer
 description: Datastrukturer
 layout: default
-nav_order: 3
+nav_order: 1
 has_children: false
 parent: Flow 4 - Teknologi og Innovation
 permalink: /datastrukturer/

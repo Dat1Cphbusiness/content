@@ -2,7 +2,7 @@
 title: MakerLab
 description: MakerLab
 layout: default
-nav_order: 4
+nav_order: 2
 has_children: false
 parent: Flow 4 - Teknologi og Innovation
 permalink: /MakerLab/

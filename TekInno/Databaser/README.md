@@ -2,15 +2,15 @@
 title: Databaser
 description: Databaser
 layout: default
-nav_order: 5
+nav_order: 3
 has_children: false
 parent: Flow 4 - Teknologi og Innovation
-permalink: /datastrukturer/
+permalink: /databaser/
 ---
 # Databaser
 
 # Mandag
-Relationelle databaser. Fordele og formål. Kernebegreber: tabeler, kolonner og rækker.
+Relationelle databaser. Fordele og formål. Kernebegreber: tabeller, kolonner og rækker.
 SQL- de vigtigste operationer
 
 ### Forberedelse 

@@ -5,7 +5,7 @@ layout: default
 nav_order: 1
 has_children: false
 parent: Flow 3 - Systemudvikling
-permalink: /OOAD/
+permalink: /Systemudvikling/OOAD/
 ---
 
 <!--

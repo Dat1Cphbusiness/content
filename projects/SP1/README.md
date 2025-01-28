@@ -2,9 +2,10 @@
 title: SP1
 description: Opgave hvor du demonstrerer alle de grundlæggende programmeringskoncepter
 layout: default
-parent: SP1
+parent: Studypoint Projekter
+has_children: false
 nav_order: 1
-permalink: /SP1/
+permalink: projects/SP1/
 ---
 # SP1 - Skuffeprojektet
 I første studypoint opgave demonstrerer du at du har fået styr det vi kalder byggeklodserne indenfor programmering. 

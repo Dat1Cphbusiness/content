@@ -25,6 +25,7 @@ Der er tale om et meget tilbundsgående kursus. I denne omgang når vi slet ikke
 
 
 # Tirsdag
+**NB! Fysisk fremmøde**
 
 Brug af relationelle databaser i dit javaprogram: Vi bygger en database i intelliJ og skaber kontakt fra et java program til databasen med SQLite og JDBC
 Følg denne [guide](https://www.jetbrains.com/help/idea/sqlite.html#oqsa9c_50) til at arbejde med SQLite databaser i IntelliJ:
@@ -42,15 +43,11 @@ workshop
 ### Forberedelse
 
 # Torsdag
+Gå sammen i jeres SP4 projekt gruppe og vend ideer til hvad I vil bygge i projektugen. 
 
 ### Forberedelse
 
 # Fredag
-ICE kick-off.
-
+ICE kick-off
 Når lektionen er slut er grupper dannet og registreret i Moodle, og I har lagt jer nogenlunde fast på en idé.
 
-# Mandag ugen efter
-Vejledermøder med godkendelse af projekt
-### Forberedelse
-Hav jeres klassediagram og andre designdokumenter klar.

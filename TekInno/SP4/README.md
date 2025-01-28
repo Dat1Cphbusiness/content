@@ -9,3 +9,9 @@ permalink: /SP4-projektuge/
 ---
 
 # SP4 - projektuge
+
+# Mandag
+Vejledermøder med godkendelse af projekt
+
+### Forberedelse
+Hav jeres klassediagram og andre designdokumenter klar.

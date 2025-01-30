@@ -18,13 +18,11 @@ I har allerede installeret og måske skrevet jeres første linjer kode i Process
 Vi kigger på de øvelser der var i bogen og arbejder med at skrive pseudokode.
 
 #### Forberedelse:
-Læs chapter 1:"Pixels" og chapter 2:"Processing" i Learning Processing bogen, **inklusiv øvelserne**.
-
-Skip projektet på side 45
-
-Chapter 3:"Interaction", er spændende men ikke obligatorisk.
-
-[ekstra materiale](resources.md#Mandag)
+- Læs chapter 1:"Pixels"
+- Læs chapter 2: "Processing" **inklusiv øvelserne**.
+  (Skip projektet side 45)
+- _Chapter 3:"Interaction", er spændende men ikke obligatorisk._
+- frivilligt: [ekstra materiale](resources.md#Mandag)
 
 #### Efter lektionen
 Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan sidde med i Open Learning, hvor der vil være mindst en tutor til stede. Opgaverne skal IKKE afleveres.
@@ -48,7 +46,7 @@ Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslek
 Variables og datatyper.
 
 #### Forberedelse:
-Læs chapter 4:"Variables" i Learning Processing bogen, **inklusiv øvelserne**.
+- Læs chapter 4:"Variables" i Learning Processing bogen, **inklusiv øvelserne**.
 
  [ekstra materiale](resources.md#Onsdag)
 

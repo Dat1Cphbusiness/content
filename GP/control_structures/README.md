@@ -52,4 +52,6 @@ Der vil være tutorer til stede fra kl. 12.30 i Open Learning.
 - [Afleveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765987)
 (indsæt linket til dit repository)
 
-# Fredag: Review
+# Fredag
+Review af torsdagsopgaven
+Kick-off på [SP1](../../projects/SP1)

@@ -48,6 +48,9 @@ Gå sammen i jeres SP4 projekt gruppe og vend ideer til hvad I vil bygge i proje
 ### Forberedelse
 
 # Fredag
-ICE kick-off
-Når lektionen er slut er grupper dannet og registreret i Moodle, og I har lagt jer nogenlunde fast på en idé.
+
+ICE kick-off (SP4 opgaven)
+
+Når lektionen er slut er grupper dannet og registreret dem i Moodle.
+I har lagt jer nogenlunde fast på en idé.
 

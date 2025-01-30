@@ -7,28 +7,42 @@ has_children: false
 nav_order: 1
 permalink: projects/SP1/
 ---
+
 # SP1 - Skuffeprojektet
 I første studypoint opgave demonstrerer du at du har fået styr det vi kalder byggeklodserne indenfor programmering. 
 
 Opgaven laves i Processing, og afleveres lige inden vi går over til IntelliJ.
 
-Vi kalder opgaven et "skuffeprojekt" fordi du arbejder på det i små ryk over længere tid.
+Vi kalder opgaven et "skuffeprojekt" fordi du arbejder på det i små ryk over længere tid (ca. 4 uger).
 
 
 ### Hvordan skal jeg arbejde med det? 
- - Start med projektet allerede fra første uge, hvor du prøver det af du har lært.
- - Tag det op af skuffen en gang om ugen og lav lidt mere, eller lav noget om.
- - Beslut dig for en fast dag hvor du vil arbejde på det (eller to dage måske?)
- - Brug din tutor eller din lærer eller dine studiekammerater, hvis der er noget der driller.
+ - Start med projektet allerede fra 2. uge, hvor du prøver det af du har lært indtil nu.
+ - Tag det op af skuffen en gang om ugen og lav lidt mere, eller lav noget om. Beslut dig for en fast dag hvor du vil arbejde på det og i hvor lang tid. 
+Her er nogle forslag:
+   - i et par timer lige umiddelbart efter lektionerne
+   - om tirsdagen efter jeg har forberedt mig til onsdag, indtil jeg ikke kan mere.
+   - i et par timer lige efter torsdagsopgaverne er afleveret
+   - i et par timer om fredagen efter review.
+ - Brug din tutor eller din lærer eller dine studiekammerater, hvis der er noget der driller. Spørg om de lige gider kigge på det, så du kan komme videre og ikke sidder fast for længe med et glemt semikolon ;)
+ - Hver gang du arbejder på de, så skriv bagefter ned hvad du har ændret som en kommentar i toppen af koden. fx
+
+```java
+// 17.februar: 
+//  - Erstattet alle hardcodede værdier med globale variable. 
+//  - Ændret scope og navngivning på nogle variable
+```
 
 ### Læringsmål
+Opgaven hjælper dig med at opnå disse mål:
  - forstå variable, datatyper, betingelser, loops, funktioner, objekter, lister og hvordan man sætter det hele sammen.
- - forstå at programmer bliver til i en iterativ process
+ - forstå at programmer bliver til i en iterativ process, hvor man koder en lille smule ad gangen, tester og overvejer fejl og mangler, koder en lille smule mere osv.
  - forstå "how to kill you darlings": Du vil komme til at skrotte kode som du med stort besvær har skrevet, fordi du nu har fundet en meget smartere måde at gøre det samme på.
-Hold en logbog hvor du hver uge skriver ned hvad du har ændret - du kan også vælge at gemme dine ugentlige ændringer i nye versioner.
+
+Din løsning skal demonstrere at du har opnået målene.
 
 
-### SP1: (BUNDEN)
+
 Opgaven går ud på at skabe dette billede i Processing. Det kan laves på mange måder, afhængig af hvad du har i din værktøjskasse.
 Herunder har vi ordnet nogle forslag til hvad du kan gøre for at fylde på og forbedre, efter hver uge.
 
@@ -36,35 +50,56 @@ Herunder har vi ordnet nogle forslag til hvad du kan gøre for at fylde på og f
 ![image](../../assets/images/flags.png)
 _Det er ikke tilladt at loade hele grafikken ;) Men du må gerne loade hvert enkelt flag._
 
+
+Allerede nu vil du kunne tegne de hvide rektangler der danner baggrund for landenavne.
+Når du placerer elementerne, træner du din forståelse af parametre og for det koordinat-systemet Processing bruger i sin output-skærm.
+
+
+Herunder ser du forslag til ting du kan overveje, efterhånden som du lærer mere:
+
 ## Variable
-Hvad er data i dette billede? Et par eksempler:
-- variabel der holder på landenes navne.
-- Stier til deres flag.
-- højde og bredde på den hvide baggrund til teksterne
-...osv.
-- bruge evt. systemvariable som ```width``` og ```height```, til at arbejde med dimensioner og placering af elementerne
-
-
- - [Processing reference: Hvordan kan man skrive tekst?](https://processing.org/reference/loadImage_.html)
- - [Processing reference:  Hvordan kan man loade grafik?](https://processing.org/reference/text_.html)
+Hvad har vi af data i billedet? Hvilke variable skal jeg lave for at holde på den data? Et par eksempler:
+- Højde og bredde på de hvide rectangler. Her kan du evt. bruge systemvariable som ```width``` og ```height```, til at arbejde med dimensioner og placering af rektanglerne
+- Hvad med teksten til at skrive landene?
+[Brug the Processing reference!](https://processing.org/reference/text_.html)
+-  Hvad med billeder? 
+[Brug the Processing reference!](https://processing.org/reference/loadImage_.html)
 
 ## Loops og betingelser
- - Hvad bliver repeteret her? 
- - Hvad skal der sker i hver iteration.
- - Er dét der sker, betinget af noget?
+Er der kommandoer der bliver gentaget mange gange? (mere end 1 betyder "mange" i programmering)
+- Analyser hver der konkret sker i hver gentagelse
+- Er dét der sker, betinget af noget?
+- Hvor mange gentagelser er der tale om? hvornår skal det stoppe?
+Ofte er det en god ide at skrive en pseudokode når man skal bygge denne slags kode.
 
 ## Funktioner
- Hvor meget gentager du dig selv i koden?
- - kan du gruppere visse kommandoer i en funktion og så kalde funktionen i stedet for gentage mange linjer?
- - er der kommandoer som ligner hinanden meget uden at være identiske - måske skal du have en funktion der tager variation som argument.
-
+Hvor meget gentager du dig selv i koden? Er din kode læselig?
+ - kan du gruppere visse kommandoer i en funktion og kalde funktionen i stedet?
+Det er svært at læse en masse linjer med kommandoer. Din kode bliver mere læselig hvis den brudt op i mindre bidder.
+Modulariteten giver dig også mulighed for at genbruge kode. Hvis du opdager at du bygger funktioenr der ligner hinanden 
+bortset fra en enkelt lille detalje: overvej om du kan nøjes med en en funktion og give den et eller flere parametre. 
 
 ## Objekter og klasser
 Hvilke objekter er der i dette billede?
 Du ser måske at der er **grupper** bestående af nogle **lande**.
-- beskriv de to ting i almindelig text før du skriver en klasse for hver af dem, fx. Group og Country
-- Hvad er forholdet mellem de to klasser? (tænk i has-a)
+- start to nye klasser: Group og Country
+- beskriv evt. de to ting i almindelig text før du fortsætter med at skrive klasserne.
+- Hvad er forholdet mellem de to klasser?
 - Hvilke felter skal de hver især have?
+- Kan du give Country en metode der sørger for at vise "et land" på skærmen?
+- Hvor skal metoden kaldes fra? Fra konstruktoren? Fra setup()?
+- Hvorfra vil du instantiere Country og group?
 
 ## Lister
-Nu hvor du har lært om lister som noget der kan holde en bestemt datatyper, hvad så med at tilføje en liste med typen Country til Group?
+Nu hvor du har lært om lister som noget der kan holde en bestemt datatype, hvad så med at tilføje en liste med typen Country til Group?
+
+
+### Hvis du har tid...
+Er du der hvor du har overvejent alle de spørgsmål ovenover, så ser du kode sandsynligvis ret fornuftig ud nu.
+Hvis du har tid, kan du fortsætte med at fylde på med features og lækkerier. Her er et par ideer:
+
+- Kan du tænke animation ind i billedet? Hvad med at gøre noget klikbart?
+- Kan du genbruge koden til et helt andet projekt, som fx. til visning af grupperne i en bordfodboldturnering her på skolen?
+
+Vær kreativ - der er ingen regler. 
+

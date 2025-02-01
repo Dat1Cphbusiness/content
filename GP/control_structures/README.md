@@ -54,4 +54,6 @@ Der vil være tutorer til stede fra kl. 12.30 i Open Learning.
 
 # Fredag
 Review af torsdagsopgaven
-Kick-off på [SP1](../../projects/SP1/)
+
+**Husk Skuffeprojektet** : Integrer hvad du har lært om kontrolstrukturer i denne uge 
+[SP1](../../projects/SP1/README.md#uge-2-loops-og-betingelser)

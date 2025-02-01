@@ -30,10 +30,12 @@ Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan 
 
 
 # Tirsdag
-
-Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslektionen.
 **NB! lektionen foregår online.**
 
+- Vi samler op på mandagslektionen
+- Intro til emnet i onsdagslektionen
+- Into til Skuffeprojektet: 
+[SP1](../../projects/SP1/README.md)
 
 #### Forberedelse:
  - Installer Zoom 
@@ -76,5 +78,6 @@ Det er ved at reflektere over din egen kode og snakke om den, at du lærer aller
 Dem der er bedst til at programmere er som regel friske på at vise deres løsning frem, mens dem der lige er startet gemmer sig lidt. Det er helt forståeligt. Vi tvinger ikke nogen, men vi opfordrer alle til at prøve at komme på banen, også selvom man stadig ikke helt forstår sin egen kode og hvorfor den virker ;)
 
 
-
+**Husk Skuffeprojektet** : Integrer hvad du har lært om variable i denne uge
+[SP1](../../projects/SP1/README.md#uge-1-variable)
 

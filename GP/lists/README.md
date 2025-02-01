@@ -52,4 +52,5 @@ Java API'et indeholder dokumentation for alle Java klasser, fx. klasser til at a
 # Fredag
 Review af torsdagsopgaverne
 
-Efter review bliver I stillet første Studypoint opgave som skal afleveres om 2 uger. [Læs om kravene til opgaven her](). 
+**Husk Skuffeprojektet**: Integrer hvad du har lært om lister i denne uge
+[SP1](../../projects/SP1/README.md#uge-4-lister)

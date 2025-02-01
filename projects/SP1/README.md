@@ -42,22 +42,22 @@ Opgaven hjælper dig med at opnå disse mål:
 Din løsning skal demonstrere at du har opnået målene.
 
 
-
+## Hvad er opgaven?
 Opgaven går ud på at skabe dette billede i Processing. Det kan laves på mange måder, afhængig af hvad du har i din værktøjskasse.
-Herunder har vi ordnet nogle forslag til hvad du kan gøre for at fylde på og forbedre, efter hver uge.
+Herunder har vi ordnet nogle forslag til hvad du hver uge kan gøre for at udvide eller forbedre din kode
 
 
 ![image](../../assets/images/flags.png)
 _Det er ikke tilladt at loade hele grafikken ;) Men du må gerne loade hvert enkelt flag._
 
 
-Allerede nu vil du kunne tegne de hvide rektangler der danner baggrund for landenavne.
-Når du placerer elementerne, træner du din forståelse af parametre og for det koordinat-systemet Processing bruger i sin output-skærm.
+Allerede efter første uge på studiet, vil du være i stand til at tegne de hvide rektangler der danner baggrund for landenavne.
+Når du placerer elementerne, træner du din forståelse af Processings tegnefunktionerne, deres parametre og hvordan de påvirker placeringen af primitive "shapes" i Processing vinduet.
 
 
 Herunder ser du forslag til ting du kan overveje, efterhånden som du lærer mere:
 
-## Variable
+## Uge 1: Variable
 Hvad har vi af data i billedet? Hvilke variable skal jeg lave for at holde på den data? Et par eksempler:
 - Højde og bredde på de hvide rectangler. Her kan du evt. bruge systemvariable som ```width``` og ```height```, til at arbejde med dimensioner og placering af rektanglerne
 - Hvad med teksten til at skrive landene?
@@ -65,21 +65,22 @@ Hvad har vi af data i billedet? Hvilke variable skal jeg lave for at holde på d
 -  Hvad med billeder? 
 [Brug the Processing reference!](https://processing.org/reference/loadImage_.html)
 
-## Loops og betingelser
+## Uge 2: Loops og betingelser
 Er der kommandoer der bliver gentaget mange gange? (mere end 1 betyder "mange" i programmering)
 - Analyser hver der konkret sker i hver gentagelse
 - Er dét der sker, betinget af noget?
 - Hvor mange gentagelser er der tale om? hvornår skal det stoppe?
 Ofte er det en god ide at skrive en pseudokode når man skal bygge denne slags kode.
 
-## Funktioner
+## Uge 3: Organisering af koden
+### Funktioner
 Hvor meget gentager du dig selv i koden? Er din kode læselig?
  - kan du gruppere visse kommandoer i en funktion og kalde funktionen i stedet?
 Det er svært at læse en masse linjer med kommandoer. Din kode bliver mere læselig hvis den brudt op i mindre bidder.
 Modulariteten giver dig også mulighed for at genbruge kode. Hvis du opdager at du bygger funktioenr der ligner hinanden 
 bortset fra en enkelt lille detalje: overvej om du kan nøjes med en en funktion og give den et eller flere parametre. 
 
-## Objekter og klasser
+### Objekter og klasser
 Hvilke objekter er der i dette billede?
 Du ser måske at der er **grupper** bestående af nogle **lande**.
 - start to nye klasser: Group og Country
@@ -90,16 +91,16 @@ Du ser måske at der er **grupper** bestående af nogle **lande**.
 - Hvor skal metoden kaldes fra? Fra konstruktoren? Fra setup()?
 - Hvorfra vil du instantiere Country og group?
 
-## Lister
+## Uge 4: Lister
 Nu hvor du har lært om lister som noget der kan holde en bestemt datatype, hvad så med at tilføje en liste med typen Country til Group?
 
 
-### Hvis du har tid...
-Er du der hvor du har overvejent alle de spørgsmål ovenover, så ser du kode sandsynligvis ret fornuftig ud nu.
-Hvis du har tid, kan du fortsætte med at fylde på med features og lækkerier. Her er et par ideer:
-
+## Jeg har gjort det hele, men der er stadig masser af tid, hvad så?
+Er du der hvor du har overvejent alle de spørgsmål ovenover, så ser din kode sandsynligvis ret fornuftig ud nu.
+Du kan fortsætte med at fylde på med diverse features og lækkerier. Her er et par ideer:
 - Kan du tænke animation ind i billedet? Hvad med at gøre noget klikbart?
 - Kan du genbruge koden til et helt andet projekt, som fx. til visning af grupperne i en bordfodboldturnering her på skolen?
+- Kan du med en mindre ændring i koden, lave det om til en helt anden type projekt?
 
 Vær kreativ - der er ingen regler. 
 

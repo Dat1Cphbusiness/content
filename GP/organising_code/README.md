@@ -56,7 +56,6 @@ Du skal ikke lave Lesson Three Project, som bygger ovenpå Lesson Two Project, s
 [ekstra materiale](resources.md#Onsdag)
 
 
-
 # Torsdag
 Det ugentlige opgavesæt, som skal afleveres senest torsdag aften.
 Der vil være tutorer til stede fra kl. 12.30 i Open Learning.
@@ -69,4 +68,5 @@ Der vil være tutorer til stede fra kl. 12.30 i Open Learning.
 - Review af torsdagsopgaverne. 
 - Besøg fra studievejledningen.
 
-[SP1](../../projects/SP1#Funktioner)
+**Husk Skuffeprojektet** : Integrer hvad du har lært om funktioner og objekter i denne uge
+[SP1](../../projects/SP1/README.md#uge-3-organisering-af-koden)

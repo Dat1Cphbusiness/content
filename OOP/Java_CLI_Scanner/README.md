@@ -16,7 +16,7 @@ permalink: /Java_CLI_Scanner/
 I denne uge slipper vi Processing miljøet, men før vi starter med IntelliJ, skal I lære at skrive kode uden anden hjælp end syntaks high-lighting. 
 
 
- > obs! i denne uge skal I aflevere jeres første studypoint opgave, [SP1](../../projects/SP1/). 
+ > obs! i denne uge skal I aflevere jeres første studypoint opgave, [SP1](../../projects/SP1/README.md). 
 
 # Mandag
 Hello World, CLI 

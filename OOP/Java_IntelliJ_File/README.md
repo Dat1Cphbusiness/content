@@ -20,7 +20,7 @@ Hello world, IntelliJ
 I dag skal I installere et IDE der anvendes professionelt til udvikling af software.
 For at lære IntelliJ at kende arbejder vi på et lille bank system og lærer også noget om composition.
 Med DrinksMenuen i sidste uge kodede vi en dialog mellem bruger og system. Med udgangspunkt i den, skal vi bygge en "utility"(nytte) klasse TextUI, som vi kan genbruge i banksystemet, til at oprette konti.
-
+<!--
 #### Forberedelse:
  Der findes flere versioner: intelliJ IDEA Edu, IntelliJCommunity og intelliJUltimate. I har licens til ultimate hvis I opretter en konto med jeres cphbusiness email.
 1. Installer IntelliJUltimate
@@ -80,4 +80,4 @@ Vi taler også mere om Exceptions.
 - [Torsdagsopgave 5: Files og Composition](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-5---Files-and-Composition)
 - [Afleveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765999)
 
-# Fredag: review
+# Fredag: review -->

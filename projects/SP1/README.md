@@ -5,7 +5,7 @@ layout: default
 parent: Studypoint Projekter
 has_children: false
 nav_order: 1
-permalink: projects/SP1/
+permalink: /SP1/
 ---
 
 # SP1 - Skuffeprojektet

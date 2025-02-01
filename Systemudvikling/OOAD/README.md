@@ -25,11 +25,11 @@ Vi foretager objektanalyse på kundekrav til Matadorspillet og tegner en domæne
 
 Senere vil domænemodellen udvikle sig til et klassediagram og fungere som en slags aftaledokument i implementeringsfasen.
 
-#### Projektmål:
+### Projektmål:
 -Fælles forståelse og vokabular for entiteterne i systemet.
 
 
-### Forberedelse
+#### Forberedelse
 
 - [GeeksForGeeks:object oriented analysis and design](https://www.geeksforgeeks.org/object-oriented-analysis-and-design/)
 - [PlantUML.com: domænemodeller](https://plantuml.com/object-diagram)
@@ -47,11 +47,11 @@ Den systemansvarlige har skrevet nogle på forhånd, som vi skal kigge nærmere 
 
 - Vi tyvstarter med at starte projektet op.
 
-#### Projektmål: 
+### Projektmål: 
 - Fælles forståelse for det hvordan systemet skal opføre sig.
 - Finde kode vi kan genbruge, og tilpasse den, så den adlyder usecase 1 og 2.
 
-### Forberedelse
+#### Forberedelse
 [læs use cases: (ready on tuesday)](https://github.com/tessG/Monopoly24/wiki/Use%E2%80%90cases)
 
 # Onsdag
@@ -69,7 +69,7 @@ Bygge game loop: mekanisme til at skifte mellem spillere.
 
 Igang med at bygge spillepladen
 
-#### Projektmål:
+### Projektmål:
 - Vi har fundamentet til et turbaseret spil.
 - vi har en spilleplade.
 -->

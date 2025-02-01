@@ -17,7 +17,7 @@ På den måde kan vi begynde og håndtere større mængder data i vores kode.
 # Mandag
 Dagens emne er datastrukturen array som er en samling af data/værdier.
 
-#### Forberedelse:
+#### Forberedelse
 Læs i bogen "Learning Processing", Chapter 9: Arrays (22 sider)
 
 

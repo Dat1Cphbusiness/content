@@ -36,9 +36,9 @@ Her er nogle forslag:
 ### Læringsmål
 Opgaven hjælper dig med at opnå disse mål:
  - forstå variable, datatyper, betingelser, loops, funktioner, objekter, lister og hvordan man sætter det hele sammen.
- - forstå at programmer bliver til i en iterativ process, hvor man koder en lille smule ad gangen, tester og overvejer fejl og mangler, koder en lille smule mere osv.
- - forstå "how to kill you darlings": Du vil komme til at skrotte kode som du med stort besvær har skrevet, fordi du nu har fundet en meget smartere måde at gøre det samme på.
-
+- forstå "how to kill you darlings": Du vil komme til at skrotte kode som du med stort besvær har skrevet, fordi du nu har fundet en meget smartere måde at gøre det samme på.
+- forstå at programmer bliver til i en iterativ process:
+   ![image](../../assets/images/iterativeProcess.png)
 Din løsning skal demonstrere at du har opnået målene.
 
 
@@ -51,13 +51,16 @@ Herunder har vi ordnet nogle forslag til hvad du hver uge kan gøre for at udvid
 _Det er ikke tilladt at loade hele grafikken ;) Men du må gerne loade hvert enkelt flag._
 
 
-Allerede efter første uge på studiet, vil du være i stand til at tegne de hvide rektangler der danner baggrund for landenavne.
+
+Herunder ser du forslag til ting du kan overveje, efterhånden som du lærer nyt:
+
+## Uge 1
+
+### Intro til processing
+Allerede efter første lektion, vil du være i stand til at tegne de hvide rektangler der danner baggrund for landenavne.
 Når du placerer elementerne, træner du din forståelse af Processings tegnefunktionerne, deres parametre og hvordan de påvirker placeringen af primitive "shapes" i Processing vinduet.
 
-
-Herunder ser du forslag til ting du kan overveje, efterhånden som du lærer mere:
-
-## Uge 1: Variable
+### Variable
 Hvad har vi af data i billedet? Hvilke variable skal jeg lave for at holde på den data? Et par eksempler:
 - Højde og bredde på de hvide rectangler. Her kan du evt. bruge systemvariable som ```width``` og ```height```, til at arbejde med dimensioner og placering af rektanglerne
 - Hvad med teksten til at skrive landene?
@@ -65,7 +68,9 @@ Hvad har vi af data i billedet? Hvilke variable skal jeg lave for at holde på d
 -  Hvad med billeder? 
 [Brug the Processing reference!](https://processing.org/reference/loadImage_.html)
 
-## Uge 2: Loops og betingelser
+## Uge 2: Kontrolstrukturer
+
+### Loops og betingelser
 Er der kommandoer der bliver gentaget mange gange? (mere end 1 betyder "mange" i programmering)
 - Analyser hver der konkret sker i hver gentagelse
 - Er dét der sker, betinget af noget?

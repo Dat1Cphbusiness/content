@@ -79,5 +79,5 @@ Dem der er bedst til at programmere er som regel friske på at vise deres løsni
 
 
 **Husk Skuffeprojektet** : Integrer hvad du har lært om variable i denne uge
-[SP1](../../projects/SP1/README.md#uge-1-variable)
+[SP1](../../projects/SP1/README.md#uge-1)
 

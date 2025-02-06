@@ -39,6 +39,7 @@ Opgaven hjælper dig med at opnå disse mål:
 - forstå "how to kill you darlings": Du vil komme til at skrotte kode som du med stort besvær har skrevet, fordi du nu har fundet en meget smartere måde at gøre det samme på.
 - forstå at programmer bliver til i en iterativ process:
    ![image](../../assets/images/iterativeProcess.png)
+
 Din løsning skal demonstrere at du har opnået målene.
 
 
@@ -56,7 +57,7 @@ Herunder ser du forslag til ting du kan overveje, efterhånden som du lærer nyt
 
 ## Uge 1
 
-### Intro til processing
+### Intro til Processing
 Allerede efter første lektion, vil du være i stand til at tegne de hvide rektangler der danner baggrund for landenavne.
 Når du placerer elementerne, træner du din forståelse af Processings tegnefunktionerne, deres parametre og hvordan de påvirker placeringen af primitive "shapes" i Processing vinduet.
 

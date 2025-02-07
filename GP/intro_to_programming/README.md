@@ -63,7 +63,7 @@ Der er vejledning til hvordan I sætter det op i den første opgave.
 
 Man afleverer gennem afleveringslink på Moodle:
 
-- [Torsdagsopgaver-0-variables](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-0-variables-and-datatypes)
+- [Torsdagsopgaver-0-variables-and-datatypes](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-0-variables-and-datatypes)
 - [Afleveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765986)
 (indsæt linket til dit repository)
 

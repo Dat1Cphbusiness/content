@@ -71,11 +71,16 @@ Hvad har vi af data i billedet? Hvilke variable skal jeg lave for at holde på d
 
 ## Uge 2: Kontrolstrukturer
 
-### Loops og betingelser
-Er der kommandoer der bliver gentaget mange gange? (mere end 1 betyder "mange" i programmering)
+### Betingelser
+-  Er der noget i billedet der på systematisk vis varierer?
+ - Kan du skrive en betingelse der tager hånd om den variation?
+
+### Loops
+Er der kommandoer der bliver gentaget mange gange? (mere end 1 betyder "mange" i programmering).
 - Analyser hver der konkret sker i hver gentagelse
 - Er dét der sker, betinget af noget?
 - Hvor mange gentagelser er der tale om? hvornår skal det stoppe?
+
 Ofte er det en god ide at skrive en pseudokode når man skal bygge denne slags kode.
 
 ## Uge 3: Organisering af koden

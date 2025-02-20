@@ -61,7 +61,7 @@ Det ugentlige opgavesæt, som skal afleveres senest torsdag aften.
 Der vil være tutorer til stede fra kl. 12.30 i Open Learning.
 
 - [Opgavesæt](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-2-functions-and-objects)
-- [Aflveringslink]()
+- [Aflveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765988)
 
 
 # Fredag

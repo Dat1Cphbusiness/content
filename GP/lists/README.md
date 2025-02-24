@@ -42,7 +42,7 @@ groupMembers[2] = "Tine";
 groupMembers[3] = "Tobias";
 
 String gm = getRandomGroupMember();
-//Skriv en metode der kan returnere en tilfældigt navn  
+//Skriv en metode der kan returnere et tilfældigt navn  
 println(gm);
 println(getLastGroupMember());
 }

@@ -48,7 +48,7 @@ Med objekter kan vi lave vores egne sammensatte datatyper i programmet. Det kræ
 I dag handler om objekter og klasser.
 
 
-#### Forberedelse:
+#### Forberedelse
 Læs i Learning Processing, Chapter 8 :"Objects" (20 sider), **inklusiv øvelserne**.
 
 Du skal ikke lave Lesson Three Project, som bygger ovenpå Lesson Two Project, som vi ikke har lavet (med mindre du meget gerne vil).

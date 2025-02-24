@@ -27,6 +27,36 @@ Læs i bogen "Learning Processing", Chapter 9: Arrays (22 sider)
 Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan sidde med i Open Learning, hvor der vil være mindst en tutor til stede. Opgaverne skal IKKE afleveres.
 [Opgaver](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/4.md)
 
+#### Kode vi skrev i lektion
+
+Eksemplet viser hvordan vi kan hive et tilfældigt element ud af en liste.
+Det viser også en metode der returnerer det sidste element i listen
+```java
+String[] groupMembers = new String[4];
+
+
+void setup() {
+groupMembers[0] = "Tess";
+groupMembers[1] = "Signe";
+groupMembers[2] = "Tine";
+groupMembers[3] = "Tobias";
+
+String gm = getRandomGroupMember();
+//Skriv en metode der kan returnere en tilfældigt navn  
+println(gm);
+println(getLastGroupMember());
+}
+
+String getRandomGroupMember(){
+int ranNum = (int)random(groupMembers.length);//
+return groupMembers[ranNum];
+}
+
+String getLastGroupMember(){
+int index = groupMembers.length-1;
+return groupMembers[index];
+}
+```
 
 # Tirsdag
 Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslektionen.

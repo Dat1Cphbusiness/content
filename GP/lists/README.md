@@ -27,7 +27,7 @@ Læs i bogen "Learning Processing", Chapter 9: Arrays (22 sider)
 Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan sidde med i Open Learning, hvor der vil være mindst en tutor til stede. Opgaverne skal IKKE afleveres.
 [Opgaver](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/4.md)
 
-#### Kode vi skrev i lektion
+#### Kode vi skrev i lektionen
 
 Eksemplet viser hvordan vi kan hive et tilfældigt element ud af en liste.
 Det viser også en metode der returnerer det sidste element i listen
@@ -42,15 +42,18 @@ groupMembers[2] = "Tine";
 groupMembers[3] = "Tobias";
 
 String gm = getRandomGroupMember();
-//Skriv en metode der kan returnere et tilfældigt navn  
 println(gm);
 println(getLastGroupMember());
 }
 
+//Skriv en metode der kan returnere et tilfældigt element fra listen  
+
 String getRandomGroupMember(){
-int ranNum = (int)random(groupMembers.length);//
+int ranNum = (int)random(groupMembers.length);
 return groupMembers[ranNum];
 }
+
+//Skriv en metode der kan returnere det sidste element i listen  
 
 String getLastGroupMember(){
 int index = groupMembers.length-1;

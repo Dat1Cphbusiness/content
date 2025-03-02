@@ -22,8 +22,10 @@ I denne uge slipper vi Processing miljøet, men før vi starter med IntelliJ, sk
 Hello World, CLI 
 
 I skal installere en tekst editor som I skal skrive koden i. 
-Her kan I bruge Sublime Text, Atom eller en anden simpel tekst editor. I skal også bruge en Java SDK hvis I ikke allerede har det. (Se "Installation af værktøjer" til højre)
+Her kan I bruge Sublime Text, Atom eller en anden simpel tekst editor. I skal også bruge en Java SDK hvis I ikke allerede har det. 
 Når du har skrevet noget java kode og gemt det med extension .java, skal den først compiles og så eksekveres fra et command line interface, et tekstbaseret program kaldet Terminal(MAC) eller Command Prompt (PC).
+
+Formålet denne uge er at blive fortrolig med syntaks til opsætning at et java program, der fordeler sig over flere klasser og kodning af de dele der går igen i de fleste programmer.
 
 #### Forberedelse:
 1. Installer en simpel tekst editor Fx.  [Sublime Text](https://www.sublimetext.com/) eller [Notepad++](https://notepad-plus-plus.org/downloads/)
@@ -41,8 +43,11 @@ Når du har skrevet noget java kode og gemt det med extension .java, skal den f�
 se også [Bonusmateriale](./resources.md)
 
 #### Efter lektionen
-Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan sidde med i Open Learning, hvor der vil være mindst en tutor til stede. Opgaverne skal IKKE afleveres.
-[Opgaver](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/4.md)
+Mandagsopgaver træner, opskrivning entity og client klasser, samt arbejde med ArrayList. 
+Skal ikke afleveres.
+
+
+[Opgaver](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/5.md)
 
 
 # Tirsdag
@@ -53,7 +58,7 @@ Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslek
 - Log på [klassen zoom rum](https://cphbusiness.zoom.us/j/66755584856?pwd=RDRqZjBqSXBsTlR0QjRsTXh0UEFTUT09)  med dit cph login.
 - Tjek at dit camera virker og er tændt når lektionen starter.
 
-### Onsdag
+# Onsdag
 
 Javaklassens anatomi, Scanner
 
@@ -61,7 +66,7 @@ I skal lære en masse nye keywords og lidt om nogle metoder der typisk er i en e
 ```this```, ```static```, indkapsling, getter og setter metoder, ```toString```, ```Scanner.in```
 
 Vi skal også arbejde med input fra brugeren. Med Scanner klassen får vi funktionalitet til at prompte brugeren til at skrive noget i konsollen.
-
+Smugkig på exceptions.
 #### Forberedelse:
 
 1. [Geeksforgeeks: Scanner (+the scanner bug)](https://www.geeksforgeeks.org/scanner-class-in-java/)

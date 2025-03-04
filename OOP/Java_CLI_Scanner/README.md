@@ -63,10 +63,11 @@ Vi samler op på mandagslektionen og kigger på hvad I skal nå inden onsdagslek
 Javaklassens anatomi, Scanner
 
 I skal lære en masse nye keywords og lidt om nogle metoder der typisk er i en entity-klasse.
-```this```, ```static```, indkapsling, getter og setter metoder, ```toString```, ```Scanner.in```
+```this```, ```static```, indkapsling, getter og setter metoder, ```toString```, ```Scanner```
 
 Vi skal også arbejde med input fra brugeren. Med Scanner klassen får vi funktionalitet til at prompte brugeren til at skrive noget i konsollen.
 Smugkig på exceptions.
+
 #### Forberedelse:
 
 1. [Geeksforgeeks: Scanner (+the scanner bug)](https://www.geeksforgeeks.org/scanner-class-in-java/)

@@ -39,18 +39,16 @@ Scroll ned og tryk 'Apply Now'.
  - Du vil modtage en email med et aktiveringslink 
  [Opret en JetBrains konto](https://account.jetbrains.com/licenses) brug din @cphbusiness.dk mail.
  Download [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/)
-
-
-2[Coding with John: video om debugger](https://www.youtube.com/watch?t=1&v=aqcJsKdjjvU)
-
 </details> 
 
-se også [Ekstra materiale](./resources.md)
+2. [Coding with John: video om debugger](https://www.youtube.com/watch?t=1&v=aqcJsKdjjvU)
+
+ [Ekstra materiale](./resources.md)
 
 #### Efter lektionen
-Mandagsopgaver:
-- [Opgavesæt6: oprette klasser i IntelliI, plantUML](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/6.md)
-- [Opgavesæt7: debugger og fejlfinding](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/7.md)
+
+- Øv dig i at oprette klasser i IntelliJ samt tegne og afkode UML diagrammer: [Opgavesæt6](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/6.md)
+- Øv dig i at trace kode og bruge debugger til at finde fejl: [Opgavesæt7](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/7.md)
 
 # Tirsdag: Lektion (online)
 Denne tirsdag bliver mere som en reel lektion fra 9-12.30, med introduktion af nye emner og fokuseret arbejde.
@@ -58,10 +56,8 @@ Denne tirsdag bliver mere som en reel lektion fra 9-12.30, med introduktion af n
 Når man henter en fil ind i et Java program, er der god chance for at noget går galt, fx at filen ikke findes. Det kaldes runtime fejl og de skal håndterer man med exceptions.
 Vi kigger på hvordan man kan hente et programs tilstand og persistere den, ved at læse fra og skrive data til en fil.
 
-- [Læs DocJava:Komposition](http://www.docjava.dk/objektorienteret_programmering/komposition/komposition.htm)
-
 #### Forberedelse:
-- [w3schools:side om at læse fra fil](https://www.w3schools.com/java/java_files_read.asp).
+- [w3schools: læse fra fil](https://www.w3schools.com/java/java_files_read.asp).
 - Log på [klassen zoom rum](https://cphbusiness.zoom.us/j/66755584856?pwd=RDRqZjBqSXBsTlR0QjRsTXh0UEFTUT09)  med dit cph login.
 
 # Onsdag 
@@ -69,7 +65,7 @@ Filer og exceptions fortsat.
 Vi prøver at genbruge TextUI i vores banksystem fra sidste uge. 
 
 #### Forberedelse:
-1. [w3schools:side om at skrive til fil](https://www.w3schools.com/java/java_files_create.asp).
+1. [w3schools: skrive til fil](https://www.w3schools.com/java/java_files_create.asp).
 2. [Coding with John: video om exceptions](https://www.youtube.com/watch?t=1&v=1XAfapkBQjk)
 3. [w3schools: Exceptions](https://www.w3schools.com/java/java_try_catch.asp)
 

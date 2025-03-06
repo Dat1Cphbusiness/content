@@ -19,8 +19,8 @@ Hello world, IntelliJ
 
 I dag skal I installere et IDE der anvendes professionelt til udvikling af software.
 For at lære IntelliJ at kende arbejder vi på et lille bank system og lærer også noget om composition.
-Med DrinksMenuen i sidste uge kodede vi en dialog mellem bruger og system. Med udgangspunkt i den, skal vi bygge en "utility"(nytte) klasse TextUI, som vi kan genbruge i banksystemet, til at oprette konti.
-<!--
+Med DrinksMenuen i sidste uge kodede vi en dialog mellem bruger og system. Med udgangspunkt i den, skal vi bygge en "utility"(nytte) klasse TextUI.
+
 #### Forberedelse:
  Der findes flere versioner: intelliJ IDEA Edu, IntelliJCommunity og intelliJUltimate. I har licens til ultimate hvis I opretter en konto med jeres cphbusiness email.
 1. Installer IntelliJUltimate
@@ -41,35 +41,35 @@ Scroll ned og tryk 'Apply Now'.
  Download [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/)
 
 
-2. [Læs DocJava:Komposition](http://www.docjava.dk/objektorienteret_programmering/komposition/komposition.htm)
+2[Coding with John: video om debugger](https://www.youtube.com/watch?t=1&v=aqcJsKdjjvU)
 
 </details> 
 
 se også [Ekstra materiale](./resources.md)
 
 #### Efter lektionen
-De sidste mandagsopgaver:
-[Opgaver](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/6.md)
+Mandagsopgaver:
+- [Opgavesæt6: oprette klasser i IntelliI, plantUML](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/6.md)
+- [Opgavesæt7: debugger og fejlfinding](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/7.md)
 
+# Tirsdag: Lektion (online)
+Denne tirsdag bliver mere som en reel lektion fra 9-12.30, med introduktion af nye emner og fokuseret arbejde.
+**Emner:** load af data(filer), exceptions.
+Når man henter en fil ind i et Java program, er der god chance for at noget går galt, fx at filen ikke findes. Det kaldes runtime fejl og de skal håndterer man med exceptions.
+Vi kigger på hvordan man kan hente et programs tilstand og persistere den, ved at læse fra og skrive data til en fil.
 
-# Tirsdag: recap + peek (online)
-Recap og et kig på forberedelse til onsdag
-Vi skal også se lidt på IntelliJ's redskaber til at hjælpe dig med at finde andre typer af fejl.
-Måske når vi også at se på hvordan man kan bruge Processing i IntelliJ
+- [Læs DocJava:Komposition](http://www.docjava.dk/objektorienteret_programmering/komposition/komposition.htm)
 
 #### Forberedelse:
-- [Coding with John: video om debugger](https://www.youtube.com/watch?t=1&v=aqcJsKdjjvU)
+- [w3schools:side om at læse fra fil](https://www.w3schools.com/java/java_files_read.asp).
 - Log på [klassen zoom rum](https://cphbusiness.zoom.us/j/66755584856?pwd=RDRqZjBqSXBsTlR0QjRsTXh0UEFTUT09)  med dit cph login.
 
 # Onsdag 
-
-Lektion om Filer. Når man henter en fil ind i et Java program, er der god chance for at noget går galt, fx at filen ikke findes. Det kaldes runtime fejl og de skal håndterer man med exceptions.
-
-Vi kigger på hvordan man kan hente et programs tilstand og persistere den, ved at læse fra og skrive data til en fil.
-Vi taler også mere om Exceptions.
+Filer og exceptions fortsat.
+Vi prøver at genbruge TextUI i vores banksystem fra sidste uge. 
 
 #### Forberedelse:
-1. [w3schools:side om at læse fra fil](https://www.w3schools.com/java/java_files_read.asp).
+1. [w3schools:side om at skrive til fil](https://www.w3schools.com/java/java_files_create.asp).
 2. [Coding with John: video om exceptions](https://www.youtube.com/watch?t=1&v=1XAfapkBQjk)
 3. [w3schools: Exceptions](https://www.w3schools.com/java/java_try_catch.asp)
 
@@ -80,4 +80,4 @@ Vi taler også mere om Exceptions.
 - [Torsdagsopgave 5: Files og Composition](https://github.com/Dat1Cphbusiness/Torsdagsopgaver-5---Files-and-Composition)
 - [Afleveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=765999)
 
-# Fredag: review -->
+# Fredag: review 

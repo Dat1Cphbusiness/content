@@ -52,7 +52,9 @@ Scroll ned og tryk 'Apply Now'.
 
 # Tirsdag: Lektion (online)
 Denne tirsdag bliver mere som en reel lektion fra 9-12.30, med introduktion af nye emner og fokuseret arbejde.
+
 **Emner:** load af data(filer), exceptions.
+
 Når man henter en fil ind i et Java program, er der god chance for at noget går galt, fx at filen ikke findes. Det kaldes runtime fejl og de skal håndterer man med exceptions.
 Vi kigger på hvordan man kan hente et programs tilstand og persistere den, ved at læse fra og skrive data til en fil.
 

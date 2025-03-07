@@ -11,7 +11,6 @@ permalink: /inheritance/
 
 # Nedarvning
 [Læringsmål](./learningobjectives)
-
 > obs! i denne uge skal I aflevere jeres 2 studypoint opgave, [SP2](../../projects/SP2/). Opgaven kræver viden om de emner vi arbejder med i denne uge,
 
 
@@ -25,13 +24,16 @@ Vi skal se hvad der sker, når to subklasser (children) implementerer en metode 
 1. [docJava:Nedarvning](http://www.docjava.dk/objektorienteret_programmering/nedarvning/nedarvning.htm)
 2. [w3schools:Java Inheritance](https://www.w3schools.com/java/java_inheritance.asp)
 
-#### Efter lektionen
-[mandagsopgaver](https://github.com/Dat1Cphbusiness/ugeopgave6_nedarvning)
+<!--#### Efter lektionen
+ [mandagsopgaver](https://github.com/Dat1Cphbusiness/ugeopgave6_nedarvning)
+-->
 
 # Tirsdag
-Vi mødes kl.9 på zoom og kigger på de opgaver I skal arbejde med idag. Der er hjælp at hente undervejs (på zoom). Kl. 11.30 mødes vi og bruger den sidste time på at gennemgå løsninger.
+Opgavedag med fysisk fremmøde. I skal arbejde selvstændigt med 3 opgaver i dag. Tine er tilstede til at hjælpe. 
+Kl. 11.30 mødes vi og bruger den sidste time på at gennemgå løsninger.
 
 - [opgaver med nedarvning](https://github.com/Dat1Cphbusiness/opgaver_nedarvning)
+
 <!-- [Afleveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=766001)-->
 
 

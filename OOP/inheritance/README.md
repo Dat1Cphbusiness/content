@@ -33,7 +33,6 @@ Opgavedag med fysisk fremmøde. I skal arbejde selvstændigt med 3 opgaver i dag
 Kl. 11.30 mødes vi og bruger den sidste time på at gennemgå løsninger.
 
 - [opgaver med nedarvning](https://github.com/Dat1Cphbusiness/opgaver_nedarvning)
-
 <!-- [Afleveringslink](https://cphbusiness.mrooms.net/mod/assign/view.php?id=766001)-->
 
 
@@ -53,7 +52,6 @@ I lektionen arbejder vi udfra dette projekt, som du skal klone.
    [PolymorphicGame](https://github.com/Dat1Cphbusiness/PolymorphicGame)
 
 #### Forbredelse
-<!--1. [docJava:Polymorfi](http://www.docjava.dk/objektorienteret_programmering/polymorfi/polymorfi.htm)-->
 
 1. [w3schools:Polymorfi](https://www.w3schools.com/java/java_polymorphism.asp)
 2. [w3schools:Java Abstraction](https://www.w3schools.com/java/java_abstract.asp)

@@ -10,7 +10,7 @@ permalink: /SP2_draft/
 # SP2 Bibliotekspenge
 
 
-En forfatter modtager årligt bibliotekspenge for at have sine bøger (titler) stående på de danske biblioteker. Hvad en titel præcis indbringer af hænger af dens type.
+En forfatter modtager årligt bibliotekspenge for at have sine bøger (titler) stående på de danske biblioteker. Hvad en titel præcis indbringer, af hænger af dens type.
 Der skelnes f.eks. mellem printede bøger og lydbøger. Byg et system der beregner en forfatters bibliotekspenge, baseret på forfatterens titler.
 
 Til hjælp har du klassediagrammet nederst. Implementer klasserne med de angivne metoder, felter og relationer. 

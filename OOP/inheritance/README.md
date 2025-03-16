@@ -11,7 +11,7 @@ permalink: /inheritance/
 
 # Nedarvning
 [Læringsmål](./learningobjectives)
-> obs! i denne uge skal I aflevere jeres 2 studypoint opgave, [SP2](../../projects/SP2/). Opgaven kræver viden om de emner vi arbejder med i denne uge,
+> obs! i denne uge skal I aflevere jeres 2 studypoint opgave, [SP2](../../projects/SP2/). Opgaven kræver viden om de emner vi arbejder med i denne uge.
 
 
 
@@ -29,7 +29,7 @@ Vi skal se hvad der sker, når to subklasser (children) implementerer en metode 
 -->
 
 # Tirsdag
-Opgavedag med fysisk fremmøde. I skal arbejde selvstændigt med 3 opgaver i dag. Tine er tilstede til at hjælpe. 
+Opgavedag med fysisk fremmøde. I kommer til at arbejde med 3 opgaver der har at gøre med nedarvning og brug af interfaces.
 Kl. 11.30 mødes vi og bruger den sidste time på at gennemgå løsninger.
 
 - [opgaver med nedarvning](https://github.com/Dat1Cphbusiness/opgaver_nedarvning)
@@ -40,8 +40,7 @@ Kl. 11.30 mødes vi og bruger den sidste time på at gennemgå løsninger.
 # Onsdag
 
 Abstract og Interface
-En klasse kan nedarve fra en klasse som helt eller delvist overlader definationen af metoderne til subklassen. Sådan en klasse kaldes et interface eller en abstrakt klasse.
-
+En klasse kan nedarve fra en klasse som helt eller delvist overlader definitionen af metoderne til subklassen. Sådan en klasse kaldes et interface eller en abstrakt klasse.
 Forskellen mellem **konkret superklasse**, **abstrakt superklasse** og **interface** kan være svær at få helt på plads - det kommer med erfaringen.
 Det fælles for dem alle er det _polymorfiske_, så fokuser på at forstå hvad det betyder.
 
@@ -58,12 +57,13 @@ I lektionen arbejder vi udfra dette projekt, som du skal klone.
 3. [w3schools:Java Interface](https://www.w3schools.com/java/java_interface.asp)
 
 ### Efter lektionen
-I stedet for torsdagsopgaver, er torsdagen i denne uge sat af til en studypoint opgave. [SP2](../../projects/SP2/)
+I stedet for torsdagsopgaver, får I en studypoint opgave. [SP2](../../projects/SP2/)
 Opgaven kræver viden om nedarvning og polymorphi. Opgaven skal afleveres torsdag aften.
 
 # Torsdag
 I skal bygge et system der beregner hvad en forfatter skal have i bibliotekspenge.
-Vi har lavet designet i form af et klasse diagram, som I finder i opgaveformuleringen sammen med forskellige fomler som skal bruges i beregningerne.
+I vil få udleveret en problembeskrivelse og et løsningsdesign i form af et klassediagram. 
+Opgaven erstatter torsdagsopgaver, og der åbnes for den på onsdag efter lektionen.
 
 [Opgavetekst og afleveringlink](../../projects/SP2/)
 

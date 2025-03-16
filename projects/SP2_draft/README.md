@@ -43,8 +43,9 @@ Litteraturtypen kan være en af følgende:"BI", "TE", "LYRIK", "SKØN", "FAG" og
 Det tal man får når man udregner titlens point, skal ganges med den aktuelle rate for biblioteksbøger.
 
 
-|Formel | _point x rate_|
-|---| ---|
+| Formel | _point x rate_|
+|-------| ---|
+|||
 
 Raten for en titel ligger i 2025 på **0.067574 kr.**
 

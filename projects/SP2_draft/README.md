@@ -2,9 +2,9 @@
 title: SP2
 description: Opgave som afslutning på OOP teori forløb
 layout: default
-parent: SP2_draft
+parent: SP2
 nav_order: 2
-permalink: /SP2/
+permalink: /SP2_draft/
 ---
 
 # SP2 Bibliotekspenge

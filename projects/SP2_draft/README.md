@@ -32,19 +32,19 @@ Point beregnes ved at gange antallet af sider/minutter med titlens litterturtype
 
 Litteraturtypen kan være en af følgende:"BI", "TE", "LYRIK", "SKØN", "FAG" og konverteres til en talværdi efter flg. skema:
 
-Litteraturtype | Værdi
----|---
-Billedbøger (for børn) (BI)	| 3
-Tegneserier (TE) | 	3
-Lyriksamlinger (LYRIK) | 	6
-Skønlitterære bøger  (SKØN) | 	1,7
-Fagbøger (FAG) | 	1
+|Litteraturtype | Værdi|
+|---|---|
+|Billedbøger (for børn) (BI)	| 3|
+|Tegneserier (TE) | 	3|
+|Lyriksamlinger (LYRIK) | 	6|
+|Skønlitterære bøger  (SKØN) | 	1,7|
+|Fagbøger (FAG) | 	1|
 
 Det tal man får når man udregner titlens point, skal ganges med den aktuelle rate for biblioteksbøger.
 
 
-Formel | _point x rate_
----| ---
+|Formel | _point x rate_|
+|---| ---|
 
 Raten for en titel ligger i 2025 på **0.067574 kr.**
 
@@ -55,15 +55,15 @@ Audiobogen findes i 140 eksemplarer med en varighed på 3 timer og 12 minutter
 
 Ved den printede bog ser beregningen således ud:
 
-Formel | _Sider x  litteraturtype x eksemplarer_
---- | ---
-Eksempel | _(166)  x 1,7  x 140  = **39508 point**
+|Formel | _Sider x  litteraturtype x eksemplarer_|
+|--- | ---|
+|Eksempel | _(166)  x 1,7  x 140  = **39508 point**|
 
 Er der tale om en lydbog (AudioBook) -  ser beregningen lidt anderledes ud:
 
-Formel | _(varighed i minutter x 0.5) x litteraturtype x eksemplarer_
---- | ---
-Eksempel | (192/2)  x  1,7  x  140  = **22848 point**)
+| Formel | _(varighed i minutter x 0.5) x litteraturtype x eksemplarer_|
+|---| ---|
+| Eksempel | (192/2)  x  1,7  x  140  = **22848 point**)|
 
 Resulatet er forfatterens udbetaling. For Olga Ravns to titler:
 
@@ -73,6 +73,7 @@ _39508 x 0,067574 + 22848 x 0,067574 = 4213.64_ (afrundet med 2 decimaler)
 ## Design
 I klassediagrammet herunder ses at metoderne  `calculateRoyalties()` og `convertLiteratureTypePoints()`, 
 implementeres i superklassen (`Title`), mens metoden `calculatePoints()` er abstrakt og altså skal implementeres forskelligt i de to subklasser.
+
 ![image](assets/LibraryRoyalties_easy.png)
 
 
@@ -84,9 +85,7 @@ implementeres i superklassen (`Title`), mens metoden `calculatePoints()` er abst
 
 
 
-
 ## Frivilig fortsættelse - udvid med netbaserede bøger
-
 
 I biblioteksverdenen findes to yderligere kategorier af titler: fysiske titler (printede bøger og lydbøger) og netbaserede titler (e-bøger og e-lydbøger) .
 
@@ -103,9 +102,9 @@ Den kan lånes i alle 97 kommuner(tilgængelighed), men er kun blevet udlånt i 
 
 Forfatteren vil få følgende antal point for værket:
 
-Formel | _Beregnede sider x litteraturtype x ((udbredelse x 5) + tilgængelighed x 0,5)+ anvevendelsesfaktor_
---- | ---
-Eksempel | _220 sider x 1 x ((97  x 0,5) + (50 x 5) + 205))_ = **98.670 point**
+| Formel | _Beregnede sider x litteraturtype x ((udbredelse x 5) + tilgængelighed x 0,5)+ anvevendelsesfaktor |
+| ---| --- |
+| Eksempel | _220 sider x 1 x ((97  x 0,5) + (50 x 5) + 205))_ = **98.670 point** |
 
 Sider beregnes (pseudosider) således: 
 

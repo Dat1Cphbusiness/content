@@ -11,7 +11,7 @@ permalink: /inheritance/
 
 # Nedarvning
 [Læringsmål](./learningobjectives)
-> obs! i denne uge skal I aflevere jeres 2 studypoint opgave, [SP2](../../projects/SP2/). Opgaven kræver viden om de emner vi arbejder med i denne uge.
+> obs! i denne uge skal I aflevere jeres 2 studypoint opgave. Opgaven kræver viden om de emner vi arbejder med i denne uge.
 
 
 
@@ -57,15 +57,16 @@ I lektionen arbejder vi udfra dette projekt, som du skal klone.
 3. [w3schools:Java Interface](https://www.w3schools.com/java/java_interface.asp)
 
 ### Efter lektionen
-I stedet for torsdagsopgaver, får I en studypoint opgave. [SP2](../../projects/SP2/)
-Opgaven kræver viden om nedarvning og polymorphi. Opgaven skal afleveres torsdag aften.
+Gå igang med SP2.
 
 # Torsdag
 I skal bygge et system der beregner hvad en forfatter skal have i bibliotekspenge.
 I vil få udleveret en problembeskrivelse og et løsningsdesign i form af et klassediagram. 
-Opgaven erstatter torsdagsopgaver, og der åbnes for den på onsdag efter lektionen.
 
-[Opgavetekst og afleveringlink](../../projects/SP2/)
+
+
+[Opgavetekst og afleveringlink]()
+<!--[Opgavetekst og afleveringlink](../../projects/SP2/)-->
 
 
 

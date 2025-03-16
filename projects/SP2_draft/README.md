@@ -41,13 +41,9 @@ Litteraturtypen kan være en af følgende:"BI", "TE", "LYRIK", "SKØN", "FAG" og
 |Fagbøger (FAG) | 	1|
 
 Det tal man får når man udregner titlens point, skal ganges med den aktuelle rate for biblioteksbøger.
-
-
-| Formel | _point x rate_|
-|-------| ---|
-|||
-
 Raten for en titel ligger i 2025 på **0.067574 kr.**
+
+
 
 #### Eksempel:
 Forfatteren Olga Ravn har bogen “Celestine” både som print og som lydbog.
@@ -56,19 +52,23 @@ Audiobogen findes i 140 eksemplarer med en varighed på 3 timer og 12 minutter
 
 Ved den printede bog ser beregningen således ud:
 
-|Formel | _Sider x  litteraturtype x eksemplarer_|
-|--- | ---|
-|Eksempel | _(166)  x 1,7  x 140  = **39508 point**|
+|Formel | _Sider x  litteraturtype x eksemplarer_  |
+|--- |------------------------------------------|
+|Eksempel | _(166)  x 1,7  x 140  = **39508 point**_ |
 
 Er der tale om en lydbog (AudioBook) -  ser beregningen lidt anderledes ud:
 
-| Formel | _(varighed i minutter x 0.5) x litteraturtype x eksemplarer_|
-|---| ---|
-| Eksempel | (192/2)  x  1,7  x  140  = **22848 point**)|
+| Formel | _(varighed i minutter x 0.5) x litteraturtype x eksemplarer_ |
+|---|--------------------------------------------------------------|
+| Eksempel | _(192/2)  x  1,7  x  140  = **22848 point**_                 |
 
 Resulatet er forfatterens udbetaling. For Olga Ravns to titler:
 
-_39508 x 0,067574 + 22848 x 0,067574 = 4213.64_ (afrundet med 2 decimaler)
+
+| Formel   | _point x rate_                                                                    |
+|----------|-----------------------------------------------------------------------------------|
+| Eksempel | _39508 x 0,067574 + 22848 x 0,067574 = **4213.64 kr**_ (afrundet med 2 decimaler) |
+
 
 
 ## Design

@@ -32,14 +32,14 @@ Der var fem forskellige ting der skulle laves og I fordelte opgaven i mellem jer
 
 # Mandag
 Matador sprint
-<!--I dag skal vi samle koden I producerede i sprint4, og tester at koden nu har en objekt repræsentation af spillepladen
+<!-- I dag skal vi samle koden I producerede i sprint4, og tester at koden nu har en objekt repræsentation af spillepladen
 
 Derefter igang med sprint5 (use case 3) hvor spilleren kaster en terning og rykker frem på brættet.
 
 Vi sætter også tid af til evaluering af semesteret
 
 ### Projektmål
-Spillere kan kaste terning og rykke rundt på brættet.-->
+Spillere kan kaste terning og rykke rundt på brættet. -->
 
 # Tirsdag
 Matador sprint

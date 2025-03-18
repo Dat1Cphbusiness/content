@@ -16,10 +16,10 @@ Rytmen i denne uge.
 
 Afslutning af matador projektet onsdag
 Torsdag og fredag selvstændigt arbejde med SP3. 
-obs! Fredag vil der være et vejledningsmøde på zoom. (Link til plan vil blive vist her på siden.)
+
+Fredag vil der være et vejledningsmøde på zoom. (Link til plan vil blive vist her på siden.)
 
 # Matador projektet uge 2.
-
 
 I sidste uge har vi analyseret og designet Matadorspillet, og står nu med en række use-cases, sekvensdiagrammer og klassediagrammer.
 Sideløbende med analysen, tog vi fat i eksisterende kode, Game (incl. FileIO ogTextUI) som vi rettede lidt til, 

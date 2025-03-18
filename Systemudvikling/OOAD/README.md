@@ -28,7 +28,7 @@ Vi skal arbejde i sprints og i teams vil i levere hver jeres del af koden, som v
 **NB!** Din mødestabilitet er (som på enhver anden arejdsplads) vigtig for at opnå kontinuitet i din forståelse og for hele holdets produktivitet.
 
 
-# Uge 1: OO analyse og design
+# Matador projektet uge 1: OO analyse og design
 
 I denne uge er målet at blive enige om et design som vi alle kan kode efter. Vi vil også tage hul på de første sprints.
 Der er to dele i et design:

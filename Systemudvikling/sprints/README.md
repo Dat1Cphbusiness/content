@@ -8,19 +8,22 @@ parent: Flow 3 - Systemudvikling
 permalink: /Systemudvikling/sprints/
 ---
 
-Rytmen i denne uge. Vi afslutter matador projektet på onsdag, og I bliver præsenteret for SP3
-Torsdag og fredag arbejder i selvstændigt med SP3. Fredag vil der være et vejledningsmøde på zoom.
+Rytmen i denne uge. 
 
 |mandag | tirsdag  | onsdag | torsdag | fredag |
 |--- |----------| --- |---------|--------|
 |Lektion | Lektion* | Lektion | SP3     | SP3    |
 
+Afslutning af matador projektet onsdag
+Torsdag og fredag selvstændigt arbejde med SP3. 
+obs! Fredag vil der være et vejledningsmøde på zoom. (Link til plan vil blive vist her på siden.)
+
 # Matador projektet uge 2.
 
 
 I sidste uge har vi analyseret og designet Matadorspillet, og står nu med en række use-cases, sekvensdiagrammer og klassediagrammer.
-
-Sideløbende med analysen, tog vi fat i eksistererende kode, Game (incl. FileIO ogTextUI) som vi rettede lidt til, sådan at vi nu har fundamentet til et turbaseret spil, med brugerdialog og datapersistens.
+Sideløbende med analysen, tog vi fat i eksisterende kode, Game (incl. FileIO ogTextUI) som vi rettede lidt til, 
+sådan at vi nu har fundamentet til et turbaseret spil, med brugerdialog og datapersistens.
 
 <!-- Kodemæssigt har vi indtil videre kun tilpasset eksisterende kode og lavet små forbedringer her og der.
 Men vi nåede lige at tage hul på sprint4 (sidste del af use case 1), hvor matadorspillepladen bliver bygget.
@@ -49,6 +52,7 @@ Test af kode til  UC3: ThrowAndMove-->
 # Onsdag
 Matador sprint
 <!--Vi fortsætter med  UC4: landAndAct og implementerer flere subklasser til Field klassen.
+Testkode -  Repetition af unit testing.
 
 
 ### Projektmål
@@ -62,5 +66,5 @@ SP3: Selvstændigt arbejde i grupper.
 
 
 # Fredag
-Kodning af hængepartier. Repetition af unit testing. Igang med SP3
+SP3: Selvstændigt arbejde i grupper.
 

@@ -57,7 +57,7 @@ I lektionen arbejder vi udfra dette projekt, som du skal klone.
 3. [w3schools:Java Interface](https://www.w3schools.com/java/java_interface.asp)
 
 ### Efter lektionen
-Gå igang med [SP2](../../projects/SP2).
+Gå igang med [SP2](https://dat1cphbusiness.github.io/content/SP2/).
 
 # Torsdag
 I skal bygge et system der beregner hvad en forfatter skal have i bibliotekspenge.
@@ -66,7 +66,7 @@ I vil få udleveret en problembeskrivelse og et løsningsdesign i form af et kla
 
 
 
-[Opgavetekst og afleveringlink](../../projects/SP2)
+[Opgavetekst og afleveringlink](https://dat1cphbusiness.github.io/content/SP2/)
 
 
 

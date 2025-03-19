@@ -30,11 +30,13 @@ Vi skal arbejde i sprints og i teams vil i levere hver jeres del af koden, som v
 
 # Matador projektet uge 1: OO analyse og design
 
-I denne uge er målet at blive enige om et design som vi alle kan kode efter. Vi vil også tage hul på de første sprints.
+I denne uge er målet at blive enige om et design som vi alle kan kode efter. 
 Der er to dele i et design:
 
 1. statisk design (hvilke klasser skal vi bruge?)
 2. dynamisk design (Hvilke metoder skal der være og hvordan skal de kommunikere?)
+
+Vi vil også tage hul på de første sprints så vi ender med at have kode der kan bruges i et turbaseret spil.
 
 [Læringsmål for ugen](./learningobjectives.md)
 

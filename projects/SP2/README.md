@@ -4,7 +4,7 @@ description: Opgave som afslutning på OOP teori forløb
 layout: default
 parent: SP2
 nav_order: 2
-permalink: /SP2_draft/
+permalink: /SP2/
 ---
 
 # SP2 Bibliotekspenge

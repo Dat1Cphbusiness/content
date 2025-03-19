@@ -65,7 +65,7 @@ I vil få udleveret en problembeskrivelse og et løsningsdesign i form af et kla
 
 
 
-[Opgavetekst og afleveringlink]()
+
 [Opgavetekst og afleveringlink](../../projects/SP2)
 
 

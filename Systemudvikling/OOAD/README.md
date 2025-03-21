@@ -52,9 +52,10 @@ Senere vil domænemodellen udvikle sig til et klassediagram og fungere som en sl
 #### Forberedelse
 - [GeeksForGeeks:object oriented analysis and design](https://www.geeksforgeeks.org/object-oriented-analysis-and-design/)
 - [PlantUML.com: domænemodeller](https://plantuml.com/object-diagram)
-- [læs Kundekrav](https://github.com/Dat1Cphbusiness/MonopolyF24/wiki/Funktionelle-krav)
+- [læs Kundekrav](https://github.com/Dat1Cphbusiness/MonopolyF25/wiki/Funktionelle-krav)
 
 ### Aflevering
+
 [Upload gruppens domænemodel]()
 
 # Tirsdag

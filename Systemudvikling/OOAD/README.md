@@ -73,7 +73,7 @@ Den systemansvarlige har skrevet nogle på forhånd, som vi skal kigge nærmere 
 - Finde kode vi kan genbruge, og tilpasse den, så den adlyder usecase 1 og 2.
 
 #### Forberedelse
-[læs use cases: (ready on tuesday)](https://github.com/tessG/MonopolyF25/wiki/Use%E2%80%90cases)
+[læs use cases: (ready on tuesday)](https://github.com/Dat1Cphbusiness/MonopolyF25/wiki/Use%E2%80%90cases)
 
 # Onsdag
 Vi har etableret vores projektkode med noget genbrugt kode som har to ting, vi skal bruge: mekanismer til _datapersistens_ og _brugerdialog_.

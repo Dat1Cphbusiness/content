@@ -25,39 +25,35 @@ I sidste uge har vi analyseret og designet Matadorspillet, og står nu med en r�
 Sideløbende med analysen, tog vi fat i eksisterende kode, Game (incl. FileIO ogTextUI) som vi rettede lidt til, 
 sådan at vi nu har fundamentet til et turbaseret spil, med brugerdialog og datapersistens.
 
-<!-- Kodemæssigt har vi indtil videre kun tilpasset eksisterende kode og lavet små forbedringer her og der.
-Men vi nåede lige at tage hul på sprint4 (sidste del af use case 1), hvor matadorspillepladen bliver bygget.
-Der var fem forskellige ting der skulle laves og I fordelte opgaven i mellem jer. Vi kalder det kollaborativ kodning, og den måde arbejder vi på de næste tre dage.
--->
+Vi nåede også sidste del af use case 1, hvor spillepladen bliver bygget, samt use case 3, hvor spillerne slå med terning og rykker rundt på spillepladen.
+
 
 # Mandag
-Matador sprint
-<!-- I dag skal vi samle koden I producerede i sprint4, og tester at koden nu har en objekt repræsentation af spillepladen
-
-Derefter igang med sprint5 (use case 3) hvor spilleren kaster en terning og rykker frem på brættet.
-
-Vi sætter også tid af til evaluering af semesteret
+Sprint 6, hvor vi instantierer subklasser til Field.
+Sprint 7, hvor vi skriver gameplay kode
 
 ### Projektmål
-Spillere kan kaste terning og rykke rundt på brættet. -->
+Implementation af UC4: landAndAct(Plot, Tax, Prison, Chance)
 
 # Tirsdag
-Matador sprint
-<!--Implementation af UC4: landAndAct  (Property klasserne)
+Vi har nu ret mange features, som er svære at teste gennem almindelig afvikling af spillet. Derfor skal vi til at skrive nogle testklasser.
+Vi skal bruge unit testing med junit, som I blev introduceret til for forrige fredag.
+
+Sprint 8, mere gameplay kode.
 
 ### Projektmål
-Test af kode til  UC3: ThrowAndMove-->
+Implementation af UC4: landAndAct(Shippingline, Brewery)
 
+#### Forberedelse
+[Coding with John: unit testing](https://youtu.be/vZm0lHciFsQ)
+
+### Projektmål
+- vi kan teste spillet, og I kender nu koden så godt at I kan tilføje flere features og rette småfejl uden trinvise instruktioner.
 
 # Onsdag
-Matador sprint
-<!--Vi fortsætter med  UC4: landAndAct og implementerer flere subklasser til Field klassen.
-Testkode -  Repetition af unit testing.
-
-
-### Projektmål
-Projektmål
-Implementation af UC4: landAndAct(Tax og Chance klasserne)-->
+Afslutning af projektet, evaluering, 
+Grupper og gruppedynamik, gruppekontrakter
+SP3
 
 
 # Torsdag

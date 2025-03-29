@@ -90,13 +90,15 @@ Hvordan ? [Se guide](../../guides/unittesting.md)
 
 
 # Fredag
-I gang med at bygge spillepladen
+I gang med at bygge spillepladen.
+Derefter i gang med sprint5 (use case 3) hvor spilleren kaster en terning og rykker frem på brættet.
 
-Vi introducerer unit testing med junit
-#### Forberedelse
-[Coding with John: unit testing](https://youtu.be/vZm0lHciFsQ)
+Det første kollaborative sprint, som kræver opdateringer i fem forskellige klasser. Vi fordeler arbejdet mellem teams, 
+og mødes bagefter til code review, hvor vi merger ændringer ind.
+
+
+### Projektmål
+Spillere kan kaste terning og rykke rundt på brættet. 
 
 ### Projektmål:
-- Vi har fundamentet til et turbaseret spil.
-- vi har en spilleplade.
-<!---->
+- Vi har fundamentet til et turbaseret spil og en objekt repræsentation af spillepladen

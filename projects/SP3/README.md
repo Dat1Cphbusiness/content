@@ -5,7 +5,7 @@ layout: default
 has_children: true
 parent: Studypoint Projekter
 nav_order: 3
-permalink: /SP3/
+permalink: projects/SP3/
 ---
 
 ### SP3 Streamingtjeneste

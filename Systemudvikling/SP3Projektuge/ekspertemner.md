@@ -1,16 +1,16 @@
 ---
-title: Læringsmål
-description: Læringsmål
+title: Præsentation af SP3
+description: Præsentation af SP3
 layout: default
-parent: SP3
-nav_order: 1
-permalink: /SP3/ekspertrundeemner/
+parent: SP3Projektuge
+nav_order: 2
+permalink: /SP3projektuge/Præsentation/
 ---
  # Emner til ekspertrunde
 
 Da alle har lavet samme projekt, skal hver gruppe vælge en del af deres projekt, som de gerne vil præsentere til review. I skal tale med jeres vejleder senest onsdag om hvad I har udvalgt. På den måde kommer vi ikke til at høre det samme seks gange til review.
 
-I kan fx vælge :
+I kan fx vælge:
 - "analyse og design" (hvad gik godt, hvad kunne være bedre, hvordan hjalp domænediagram og klassediagram i kodeprocessen, endte designet med at følge klassediagrammet, anvendte vi på noget tidspunkt et sekvensdiagram? blev der skrevet use-cases?)
 
 

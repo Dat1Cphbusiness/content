@@ -2,9 +2,9 @@
 title: Læringsmål
 description: Læringsmål
 layout: default
-parent: SP3
+parent: SP3Projektuge
 nav_order: 1
-permalink: /SP3/learningobjectives/
+permalink: /SP3projektuge/learningobjectives/
 ---
 # Læringsmål for ugen
 

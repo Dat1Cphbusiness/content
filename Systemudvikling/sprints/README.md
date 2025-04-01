@@ -63,4 +63,5 @@ SP3: Selvstændigt arbejde i grupper.
 
 # Fredag
 SP3: Selvstændigt arbejde i grupper.
+Skemalagt vejledning, [se plan her](https://efif.sharepoint.com/:x:/r/sites/cph/Lyngby/Shared%20Documents/4.%20Indhold%20%26%20Niveau/DAT/1.sem%20for%C3%A5r%202025/studerende/Vejldningsplan.xlsx?d=w56e8831262e744b1bb81334ef74df4df&csf=1&web=1&e=A5FqNk) 
 

@@ -13,13 +13,13 @@ permalink: /SP3Projektuge/
 
 # Mandag 
 
-Selvstændigt arbejde i projektgrupper på [SP3 opgaven](https://dat1cphbusiness.github.io/content/SP3/).
+Selvstændigt arbejde i projektgrupper på [SP3 opgaven](../../projects/SP3).
 Vejledning tilgængelig hver dag (Tine i det normale lektionstidsrum)
 
 
 
 # Tirsdag
-Selvstændigt arbejde i projektgrupper på [SP3 opgaven](https://dat1cphbusiness.github.io/content/SP3/).
+Selvstændigt arbejde i projektgrupper på SP3 opgaven.
 Vejledning tilgængelig hver dag (Tine i det normale lektionstidsrum)
 
 

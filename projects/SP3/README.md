@@ -2,10 +2,10 @@
 title: SP3
 description: Fri opgave hvor du demonstrerer alle de grundlæggende programmeringskoncepter
 layout: default
-has_children: false
+has_children: true
 parent: Studypoint Projekter
 nav_order: 3
-permalink: projects/SP3/
+permalink: /SP3/
 ---
 
 ### SP3 Streamingtjeneste

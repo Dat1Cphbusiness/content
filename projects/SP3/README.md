@@ -7,10 +7,11 @@ parent: Studypoint Projekter
 nav_order: 3
 permalink: projects/SP3/
 ---
-<!--
+
 ### SP3 Streamingtjeneste
 
 - [opgavetekst](SP3.pdf)
+- [opgavetekst mini](SP3mini.pdf)
 
 
 ## Assets
@@ -58,4 +59,3 @@ Fordel taletiden mellem alle gruppemedlemmer.
 
 - "Data og datastrukturer" Hvilke udfordringer oplevede vi i forbindelse med persistering af data? hvilke data strukturer kom i spil? hvorfor og hvad gjorde det ved koden?
 
--->

@@ -53,7 +53,7 @@ Implementation af UC4: landAndAct(Shippingline, Brewery)
 # Onsdag
 Afslutning af projektet, evaluering, 
 Grupper og gruppedynamik, gruppekontrakter
-SP3
+[SP3](https://dat1cphbusiness.github.io/content/SP3/)
 
 
 # Torsdag

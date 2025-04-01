@@ -5,7 +5,7 @@ layout: default
 nav_order: 3
 has_children: false
 parent: Flow 3 - Systemudvikling
-permalink: /SP3/
+permalink: /SP3Projektuge/
 ---
 # SP3 Projektuge
 [Læringsmål for ugen](./learningobjectives.md)

@@ -58,4 +58,3 @@ Fordel taletiden mellem alle gruppemedlemmer.
 
 
 - "Data og datastrukturer" Hvilke udfordringer oplevede vi i forbindelse med persistering af data? hvilke data strukturer kom i spil? hvorfor og hvad gjorde det ved koden?
-

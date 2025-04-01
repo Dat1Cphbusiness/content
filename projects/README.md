@@ -2,7 +2,8 @@
 title: Studypoint Projekter
 description: Studypoint Projekter
 layout: default
-nav_exclude: true
+nav_exclude: false
+nav_order: 6
 has_children: true
 permalink: /projects/
 ---

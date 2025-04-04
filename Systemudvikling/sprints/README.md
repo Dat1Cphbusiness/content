@@ -62,5 +62,14 @@ SP3: Selvstændigt arbejde i grupper.
 
 # Fredag
 SP3: Selvstændigt arbejde i grupper.
-Skemalagt vejledning, [se plan her](https://efif.sharepoint.com/:x:/r/sites/cph/Lyngby/Shared%20Documents/4.%20Indhold%20%26%20Niveau/DAT/1.sem%20for%C3%A5r%202025/studerende/Vejldningsplan.xlsx?d=w56e8831262e744b1bb81334ef74df4df&csf=1&web=1&e=A5FqNk) 
 
+
+
+#### Skemalagt vejledning:
+I forbindelse med dagens vejledning kommer vi ind på hvor I er i processen og har især fokus på jeres løsningsdesign, så hav klassediagrammet parat.
+
+| Vejleder |	9:45|	10:00	|10:15	|10:30	|10:45|	11:00|	11:45	|
+|---|---|---|---|---|---|---|---|
+|Tess|	A|	B|	E|	C|	D	|	G|	F	|		
+
+Vejlednignen foregår på zoom: [zoomlink](https://cphbusiness.zoom.us/j/66755584856?pwd=RDRqZjBqSXBsTlR0QjRsTXh0UEFTUT09)

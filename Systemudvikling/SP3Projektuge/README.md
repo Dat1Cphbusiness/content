@@ -24,10 +24,15 @@ Vejledning tilgængelig hver dag (Tine i det normale lektionstidsrum)
 
 
 # Onsdag
-**Skemalagt** vejledning hvor I melder ud hvilket emne i vil præsentere til review.
-[se plan her](https://efif.sharepoint.com/:x:/r/sites/cph/Lyngby/Shared%20Documents/4.%20Indhold%20%26%20Niveau/DAT/1.sem%20for%C3%A5r%202025/studerende/Vejldningsplan.xlsx?d=w56e8831262e744b1bb81334ef74df4df&csf=1&web=1&e=A5FqNk)
+**Skemalagt** vejledning hvor I melder ud hvilket emne i vil præsentere til review*.
 
-Da alle har lavet samme projekt, skal hver gruppe vælge en del af deres projekt, som de gerne vil præsentere på fredag. Vi kalder det ekspertrunde.
+
+| Vejleder | 	9:45 | 	10:00	 | 10:15	 | 10:30	 | 10:45 | 	11:00 | 	11:45	 |
+|----------|-------|---------|--------|--------|-------|--------|---------|
+| Tine     | 	G    | 	F      | 	E     | D      | 	C	   | 	B     | 	A	     |		
+
+
+* Da alle har lavet samme projekt, skal hver gruppe vælge en del af deres projekt, som de gerne vil præsentere på fredag. Vi kalder det ekspertrunde.
 
 Se på listen over mulige ekspertområder her [her](./ekspertemner.md). I skal tale med jeres vejleder senest onsdag om hvad I har udvalgt. På den måde kommer vi ikke til at høre det samme seks gange på fredag.
 

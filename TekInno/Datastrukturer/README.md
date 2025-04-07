@@ -20,7 +20,7 @@ Vi skal arbejde med datastrukturer fra Collections frameworket i Java.  Eksemple
 - Kendskab til hashing og hashcode
 - Anvendelse af forskellige datastrukturer i praksis
 
- ### Forberedelse
+### Forberedelse
 Løb disse w3schools tutorials igennem inden undervisningen:
 - [LinkedList](https://www.w3schools.com/java/java_linkedlist.asp)
 - [List Sorting](https://www.w3schools.com/java/java_sort_list.asp)

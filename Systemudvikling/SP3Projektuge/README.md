@@ -33,10 +33,11 @@ Vejledning tilgængelig hver dag (Tine i det normale lektionstidsrum)
 
 Vejledningen foregår på zoom: [zoomlink](https://cphbusiness.zoom.us/my/tinemarbjerg?pwd=lA69d9WKLz7hnaSyYN0sl8Z0KQ500Y.1)
 
-* Da alle har lavet samme projekt, skal hver gruppe vælge en del af deres projekt, som de gerne vil præsentere på fredag. Vi kalder det ekspertrunde.
+* Review foregår sådan at hver gruppe præsenterer viden de har fået under projektet. 
+Dvs. at I ikke blot skal gennemgå jeres løsning, men prøve at formidle sammenhængende og fokuseret om et enkelt emne I er blevet klogere på.
 
-Se på listen over mulige emner kan ses i [SP3 opgaveteksten](../../projects/SP3/README.md#emner). 
-Aftale med vejleder senest onsdag hvilket emne I tager. 
+Listen over mulige emner kan ses i [SP3 opgaveteksten](../../projects/SP3/README.md#emner). 
+Aftal med vejleder senest onsdag hvilket emne I tager. 
 
 
 

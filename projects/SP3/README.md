@@ -1,6 +1,6 @@
 ---
 title: SP3
-description: Fri opgave hvor du demonstrerer alle de grundlæggende programmeringskoncepter
+description: Bunden opgave hvor I afprøver teknikker til objektetorienteret analyse og design samt anvendelse af samarbejdsteknikker.
 layout: default
 has_children: true
 parent: Studypoint Projekter

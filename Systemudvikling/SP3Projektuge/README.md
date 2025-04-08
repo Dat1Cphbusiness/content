@@ -26,7 +26,6 @@ Vejledning tilgængelig hver dag (Tine i det normale lektionstidsrum)
 # Onsdag
 **Skemalagt** vejledning hvor I melder ud hvilket emne i vil præsentere til review*.
 
-
 | Vejleder | 	9:45 | 	10:00	 | 10:15	 | 10:30	 | 10:45 | 	11:00 | 	11:15	 |
 |----------|-------|---------|--------|--------|-------|--------|---------|
 | Tine     | 	G    | 	F      | 	E     | D      | 	C	   | 	B     | 	A	     |		

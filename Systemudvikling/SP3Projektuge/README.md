@@ -34,7 +34,10 @@ Vejledning tilgængelig hver dag (Tine i det normale lektionstidsrum)
 
 * Da alle har lavet samme projekt, skal hver gruppe vælge en del af deres projekt, som de gerne vil præsentere på fredag. Vi kalder det ekspertrunde.
 
-Se på listen over mulige ekspertområder her [her](./ekspertemner.md). I skal tale med jeres vejleder senest onsdag om hvad I har udvalgt. På den måde kommer vi ikke til at høre det samme seks gange på fredag.
+Se på listen over mulige emner kan ses i [SP3 opgaveteksten](../../projects/SP3/README.md#emner). 
+Aftale med vejleder senest onsdag hvilket emne I tager. 
+
+
 
 # Torsdag
 Aflevering inden midnat - men husk at sætte tid af til at forberede jeres præsentation

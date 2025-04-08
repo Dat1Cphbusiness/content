@@ -31,6 +31,7 @@ Vejledning tilgængelig hver dag (Tine i det normale lektionstidsrum)
 |----------|-------|---------|--------|--------|-------|--------|---------|
 | Tine     | 	G    | 	F      | 	E     | D      | 	C	   | 	B     | 	A	     |		
 
+Vejledningen foregår på zoom: [zoomlink](https://cphbusiness.zoom.us/my/tinemarbjerg?pwd=lA69d9WKLz7hnaSyYN0sl8Z0KQ500Y.1)
 
 * Da alle har lavet samme projekt, skal hver gruppe vælge en del af deres projekt, som de gerne vil præsentere på fredag. Vi kalder det ekspertrunde.
 

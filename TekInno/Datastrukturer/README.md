@@ -15,6 +15,9 @@ BEMÆRK: lokale 2.10
 
 Vi skal arbejde med datastrukturer fra Collections frameworket i Java.  Eksempler på dette er  ```array```og ```ArrayList```, som I allerede kender. Der findes mange andre datastrukturer med hver deres egenskaber. I denne uge kigger vi på ```List```, ```Set``` og ```Map```.
 
+[Datastrukturer intro - slides](Datastrukturer.pdf)
+[dastrukturer performance - slides](Datastrukturer-performance.pdf)
+
 ### Dagens læringsmål 
 - Kendskab til forskellige Set, Lists og Maps samt deres egenskaber og metoder.
 - Kendskab til hashing og hashcode

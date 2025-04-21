@@ -15,8 +15,7 @@ BEMÆRK: lokale 2.10
 
 Vi skal arbejde med datastrukturer fra Collections frameworket i Java.  Eksempler på dette er  ```array```og ```ArrayList```, som I allerede kender. Der findes mange andre datastrukturer med hver deres egenskaber. I denne uge kigger vi på ```List```, ```Set``` og ```Map```.
 
-- [Datastrukturer intro - slides](Datastrukturer.pdf)
-- [Datastrukturer performance - slides](Datastrukturer-performance.pdf)
+[Datastrukturer intro - slides](Datastrukturer.pdf)
 
 ### Dagens læringsmål 
 - Kendskab til forskellige Set, Lists og Maps samt deres egenskaber og metoder.
@@ -33,6 +32,8 @@ Løb disse w3schools tutorials igennem inden undervisningen:
 
 # Onsdag
 Datastrukturer fortsat. Nu med Big O-notation og performance. (Big O-notation bruges til at beskrive, hvor effektiv en algoritme er, når datamængden vokser).
+
+[Datastrukturer performance - slides](Datastrukturer-performance.pdf)
 
 ### Dagens læringsmål
 - Basalt kendskab til performance for forskellige datastrukturers forskellige operationer (indsætte, slette, søge) herunder Big O-notation

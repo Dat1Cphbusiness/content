@@ -35,6 +35,7 @@ Datastrukturer fortsat. Nu med Big O-notation og performance. (Big O-notation br
 
 - [Datastrukturer performance - slides](Datastrukturer-performance.pdf)
 - [Opgaver](MapAndSetExercises.pdf)
+- [mobydick.txt](mobydick.txt)
 
 ### Dagens læringsmål
 - Basalt kendskab til performance for forskellige datastrukturers forskellige operationer (indsætte, slette, søge) herunder Big O-notation

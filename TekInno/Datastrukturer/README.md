@@ -41,7 +41,7 @@ Datastrukturer fortsat. Nu med Big O-notation og performance. (Big O-notation br
 - Basalt kendskab til sortering og søgning
 
 # Torsdag
-øvelser
+[Text Adventure](https://github.com/Dat1Cphbusiness/adventure)
 
 # Fredag
 review

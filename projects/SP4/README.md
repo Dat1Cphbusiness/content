@@ -75,3 +75,32 @@ Overvej om I vil oprette et GitHub Project, til at holde styr på hvem der laver
 Begynd at kode et klasse-skelet med stub kode op. Klassediagrammet skal godkendes af en underviser ved første vejledningsmøde. 
 Dette er både for at sikre at I har fået defineret en opgave som har nok kød på og at I får øvet jer på de ting vi har arbejdet med i dette semester.
 
+**7. Implementer**
+
+Hvis I har bygget et godt fundament ved at følge de forrige trin, bliver det nemt at bygge kernefunktionalitet og tilføje så mange features som I kan nå.
+
+## Aflevering
+
+Afleveringen skal indeholde flg:
+
+1. Koden (github repo)
+
+2. De funktionelle krav (ca. 1 A4 side, placeres i projektet som README.md fil)
+
+3. Design og analyse dokumenter (placeres i projektet i en 'doc' folder)
+
+
+## Præsentation
+Deltagelse ved præsentationen er påkrævet for at få studypoints for opgaven.
+
+Disposition til Præsentationen
+- Helikopter perspektivet:
+  Formålet med det hele. Konteksten. Hvad handler projektet om? Hvad er det for en type applikation?
+
+
+- Resultatet:
+  Hvad fik vi bygget? Og her er vi andre både interesseret i den (muligvis kun delvis) kørende kode, og hvordan den er skruet sammen. Kan I give os et overblik over applikationen?
+
+
+- Erfaringer og reflektioner:
+  Hvad har I lært? Om teknologien og om udviklingsprocessen. Værktøjer, metoder, biblioteker, kode emner som har haft betydning

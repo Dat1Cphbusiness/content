@@ -38,9 +38,15 @@ Følg denne [guide](https://www.jetbrains.com/help/idea/sqlite.html#oqsa9c_50) t
 - [sqlitetutorial.net: SQLite i Java](https://www.sqlitetutorial.net/sqlite-java/select/)
 
 # Onsdag
-workshop
+workshop 
+
+Det er ikke et krav at I jeres SP4 projekt har en GUI, men det kan være meget tilfredsstillende og lærerigt for jer at prøve kræfter med det. 
+Hvis I har overskuddet og lysten, kan I undersøge mulighederne i dag.
 
 ### Forberedelse
+Kig på javaFX
+
+
 
 # Torsdag
 Gå sammen i jeres SP4 projekt gruppe og vend ideer til hvad I vil bygge i projektugen. 
@@ -49,7 +55,7 @@ Gå sammen i jeres SP4 projekt gruppe og vend ideer til hvad I vil bygge i proje
 
 # Fredag
 
-ICE kick-off (SP4 opgaven)
+ICE kick-off [SP4 opgaven](../../projects/SP4).
 
 Når lektionen er slut er grupper dannet og registreret dem i Moodle.
 I har lagt jer nogenlunde fast på en idé.

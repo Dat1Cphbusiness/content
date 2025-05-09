@@ -19,6 +19,13 @@ Vejledermøder med godkendelse af projekt.
 Vi gennemgår jeres klassediagram og andre design dokumenter I måtte ligge inde med.
 Der kan komme feedback, som betyder at I må rette lidt til.
 
+
+| Vejleder | 	9:45 | 	10:00	 | 10:15	 | 10:30	 | 10:45 | 	11:00 | 	11:15	 |
+|----------|-------|---------|--------|--------|-------|--------|---------|
+| Tess     | 	G    | 	F      | 	E     | D      | 	C	   | 	B     | 	A	     |		
+
+
+
 ### Forberedelse
 Hav jeres klassediagram og andre designdokumenter klar.
 

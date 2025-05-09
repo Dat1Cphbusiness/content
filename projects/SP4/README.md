@@ -1,6 +1,6 @@
 ---
 title: SP4
-description: Fri opgave, hvor I selv definere omfang og indhold af opgaven.
+description: Fri opgave, hvor I selv definerer omfang og indhold af opgaven.
 layout: default
 has_children: false
 parent: Studypoint Projekter

@@ -15,24 +15,27 @@ Derefter koder i selvstændigt i jeres grupper. Der vil være adgang til vejledn
 I har indtil **d.20 maj** til at implementere jeres kode. 
 
 # Mandag
-Vejledermøder med godkendelse af projekt. 
+
+Design: start med en **domæne model**, se hvor langt I kan nå med et **klassediagram**.
+
+# Tirsdag
+
+Vejledermøder med godkendelse af projekt.
 Vi gennemgår jeres klassediagram og andre design dokumenter I måtte ligge inde med.
 Der kan komme feedback, som betyder at I må rette lidt til.
-
 
 | Vejleder | 	9:45 | 	10:00	 | 10:15	 | 10:30	 | 10:45 | 	11:00 | 	11:15	 |
 |----------|-------|---------|--------|--------|-------|--------|---------|
 | Tess     | 	G    | 	F      | 	E     | D      | 	C	   | 	B     | 	A	     |		
 
+Efter mødet: Tilpasning af klassediagram, færdiggør designet. Begynd på stub-kode.
 
 
 ### Forberedelse
 Hav jeres klassediagram og andre designdokumenter klar.
 
-# Tirsdag 
-Tilpasning af klassediagram, færdiggør designet.
-
 # Onsdag
+
 Kod
 Benyt jer af vejledning ml. 9 og 12.30 (kontakt Tine)
 

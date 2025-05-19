@@ -30,8 +30,3 @@ fx. hvis brugeren vælger blomst nr. 5 skal der lægges 40 kr til `total`.
 5. Instantiér FlowerShop og kald runDialog() metoden fra main. Du bestemmer selv hvornår i flowet blomsternavne og prisliste skal vises.
 
 
-<!---
-### Hvis du har tid:
--	Smid en exception hvis brugeren skriver noget ubrugeligt og giv brugeren mulighed for at svare en gang til.
--	Lav en Flower klasse til at repræsentere en blomst. Klassen skal have en pris og et navn. Ændr koden sådan at der ligger blomster objekter i listen i stedet for tekststrenge.
---->

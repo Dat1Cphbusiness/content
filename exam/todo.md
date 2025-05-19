@@ -7,6 +7,8 @@
    `Description, Done`
 
 
+![](todoDiagram.svg)
+
 2. Lav en klasse Item som repræsenterer en opgave i to-do listen.
    -  Tilføj attributterne jvf klassediagrammet. Bestem selv datatype og access modifyer for
    attributterne.
@@ -21,6 +23,8 @@
 4. Lav en TodoList klasse
    - tilføj attributten items, og en konstruktor jvf. klassediagrammet. 
    - tilføj en metode displayItems() i TodoList, der printer alle items i listen ud.
+
+
 
 
 5. Lav en Main klasse med en main-metode.
@@ -66,24 +70,13 @@ Main *-- TodoList
 ```
 </div>
 
-![](todoDiagram.svg)
- 
-<!---
-### Hvis du har tid...
-   Tilføj en metode, runDialog() til TodoList, med et while- loop hvori displayList bliver kaldt og derefter
-   vises følgende besked:
+
+
+6. Tilføj en metode, runDialog() til TodoList, med et while- loop hvori displayList bliver kaldt og derefter
+  vises følgende besked:
 
 ```
  Tast et tal for den opgave du vil markere som 'done’
  Tast et tal som ikke findes i listen, hvis du vil tilføje en opgave
  Tast 0 eller et negativt tal for at afslutte
 ```
-
-- Hvis man taster 2 bliver det Item der står nummer 2 på listen sat til 'done'
-- Hvis man taster et tal på en opgave som allerede er done, skal opgaven fjernes fra listen.
-- Hvis man taster et positivt tal som ikke findes i listen, betyder det at brugeren vil tilføje en ny
-  opgave til listen. Der skal derfor vises en besked om at skrive opgavens tekst. Den nye opgave skal
-  blive til et nyt Item objekt og lægges ind i ArrayListen af items.
-- Hvis man taster et tal som er 0 eller mindre, ryger man ud af loop’et og programmet stopper.
-  Gem ændringer i csv filen. 
---->

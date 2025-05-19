@@ -66,9 +66,3 @@ Employee <|-- CommissionEmployee: Is
 
 
 
-<!---
-### Hvis du har tid...
-- Tilføj relevante attributter og ikke-abstrakte metoder til Employee fx name, adress, department og lignende. 
-- Lav justeringer i subklasserne, hvis det er nødvendigt. 
-- Test i main, at metoderne virker for dine tre subklasser.
---->

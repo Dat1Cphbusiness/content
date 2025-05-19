@@ -34,6 +34,8 @@ I denne opgave skal du lave et program som kan loade en tekst og fjerne studeren
 
 4.  Instantier StringHandler og kald replaceText med hele eller dele af den loadede tekst, som argument.
 
+<!---
 ### Hvis du har tid...
 
  - Gem den anonymiserede tekst i en ny fil.
+--->

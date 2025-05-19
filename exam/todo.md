@@ -80,3 +80,12 @@ Main *-- TodoList
  Tast et tal som ikke findes i listen, hvis du vil tilføje en opgave
  Tast 0 eller et negativt tal for at afslutte
 ```
+
+7. Skriv logikken til mindst én af kommandoerne:
+-  Hvis brugeren fx.taster 2 skal det Item der står nummer 2 på listen sættes til 'done'
+-  Hvis brugeren taster et tal på en opgave som allerede er done, skal opgaven fjernes fra listen.
+-  Hvis man taster et positivt tal som ikke findes i listen, betyder det at brugeren vil tilføje en ny
+  opgave til listen. Der skal derfor vises en besked om at skrive opgavens tekst. Den nye opgave skal
+  blive til et nyt Item objekt og lægges ind i ArrayListen af items.
+- Hvis man taster et tal som er 0 eller mindre, ryger man ud af loop’et og programmet stopper.
+ 

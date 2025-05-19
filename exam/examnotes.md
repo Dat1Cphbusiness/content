@@ -1,14 +1,5 @@
 1. Todo
-   
-
-
-- Hvis man taster 2 bliver det Item der står nummer 2 på listen sat til 'done'
-- Hvis man taster et tal på en opgave som allerede er done, skal opgaven fjernes fra listen.
-- Hvis man taster et positivt tal som ikke findes i listen, betyder det at brugeren vil tilføje en ny
-  opgave til listen. Der skal derfor vises en besked om at skrive opgavens tekst. Den nye opgave skal
-  blive til et nyt Item objekt og lægges ind i ArrayListen af items.
-- Hvis man taster et tal som er 0 eller mindre, ryger man ud af loop’et og programmet stopper.
-  Gem ændringer i csv filen.
+ - Gem ændringer i csv filen.
 
 2. Lønberegner
 - Tilføj relevante attributter og ikke-abstrakte metoder til Employee fx name, adress, department og lignende. 

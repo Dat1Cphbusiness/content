@@ -1,4 +1,4 @@
-INCOMM---
+---
 title: Exam
 description: Description of how exam is conducted and release of exam assignments
 layout: default

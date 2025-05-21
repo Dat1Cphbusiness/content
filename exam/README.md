@@ -1,5 +1,4 @@
-```
----
+INCOMM---
 title: Exam
 description: Description of how exam is conducted and release of exam assignments
 layout: default
@@ -8,7 +7,6 @@ has_children: false
 parent: 
 permalink: /Exam/
 ---
-```
 
 **Eksamensform:**
 

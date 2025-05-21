@@ -1,5 +1,5 @@
 
-# 5. Køb blomster
+# 4. Køb blomster
  
 I dette program skal brugeren præsenteres for en liste med 10 blomsternavne. Ud for hvert blomsternavn, vises et tal og brugeren skriver tallet for at vælge en bestemt blomst. Brugeren skal vælge i alt 3 blomster. Den samme blomst må gerne vælges mere end én gang. Derefter skal brugeren spørges om blomsterne skal sammensættes til en buket. Til sidst skal der vises en pris. 
 Du kan vælge at strukturere koden således: 

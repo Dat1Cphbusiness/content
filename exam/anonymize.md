@@ -1,4 +1,10 @@
 
+---
+nav_exclude: true
+---
+
+
+
 # 3. Anonymiseret tekst
 
 I denne opgave skal du lave et program som kan loade en tekst og fjerne studerendes navne og erstatte dem med "den studerende".

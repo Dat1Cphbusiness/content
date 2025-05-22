@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 
 # 4. Køb blomster
  

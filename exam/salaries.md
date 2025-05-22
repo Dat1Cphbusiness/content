@@ -1,3 +1,14 @@
+---
+title: Exam 2
+description: assignment 2
+layout: default
+nav_exlude: true
+has_children: false
+parent: Exam
+permalink: /Exam/exam2
+---
+
+
 # 2. Lønberegning
 
 Skriv et program, som beregner løn for medarbejdere.  

@@ -1,3 +1,13 @@
+---
+title: Exam 5
+description: assignment 5
+layout: default
+nav_exlude: true
+has_children: false
+parent: Exam
+permalink: /Exam/exam5
+---
+
 # 5. Brugere
 
 I dette program skal du lave en klasse User, som repræsenterer en bruger i et system. 

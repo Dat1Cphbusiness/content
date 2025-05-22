@@ -1,7 +1,14 @@
-
 ---
+title: Exam 3
+description: assignment 3
+layout: default
 nav_exclude: true
+has_children: false
+parent: Exam
+permalink: /Exam/exam3
 ---
+
+
 
 
 

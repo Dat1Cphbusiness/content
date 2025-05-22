@@ -3,7 +3,7 @@ title: Exam
 description: Description of how exam is conducted and release of exam assignments
 layout: default
 nav_order: 6
-has_children: true
+has_children: false
 parent: 
 permalink: /Exam/
 ---

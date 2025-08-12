@@ -17,10 +17,10 @@ Til hjælp har du klassediagrammet nederst. Implementer klasserne med de angivne
 Implementer dernæst metoderne udfra flg. beskrivelse af reglerne for beregning.
 
 ## Test
-For at teste systemet, skal du lave en klasse kaldet `LibraryRoyalityCalculator` som ikke er med i klassediagrammet. 
-Den har en main metode, hvori du opretter mindst 1 forfatter med mindst 1 lydbog og mindst 1 printet bog.
+For at teste systemet, skal du lave en klasse kaldet `LibraryRoyalityCalculator` (_ikke med i klassediagrammet_).
+`LibraryRoyalityCalculator` skal indeholde en main metode, hvori du opretter mindst 1 forfatter med mindst 1 lydbog og mindst 1 printet bog.
 Brug Author klassens `addTitle` metode til at tilføje titlerne til forfatteren. 
-Kald forfatterens `calculateTotalPay` der gennemløber listen af titler, og for hver titel, igangsætter beregning af bibliotekspenge(royalties), lægger tallene sammen og returnerer beløbet med 2 decimaler.
+Kald forfatterens `calculateTotalPay` der gerne skulle beregne og returnere forfatterens bibliotekspenge.
 
 Fra `main` skrives resultatet pænt ud med forfatterens navn og det beløb der skal udbetales, fx:
 

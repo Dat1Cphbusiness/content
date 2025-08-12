@@ -55,7 +55,7 @@ Gå sammen i jeres SP4 projekt gruppe og vend ideer til hvad I vil bygge i proje
 
 # Fredag
 
-ICE kick-off [SP4 opgaven](../../projects/SP4).
+ICE kick-off [SP4 opgaven](https://dat1cphbusiness.github.io/content/projects/SP4/).
 
 Når lektionen er slut er grupper dannet og registreret dem i Moodle.
 I har lagt jer nogenlunde fast på en idé.

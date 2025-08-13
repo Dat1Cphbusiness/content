@@ -11,8 +11,9 @@ permalink: /intro_to_programming/
 # Intro til programmering
 [Læringsmål for ugen](./learningobjectives.md)
 
-# Mandag
+# Tirsdag
 Hello World i Processing
+**NB! lektionen foregår online.**
 
 I har allerede installeret og måske skrevet jeres første linjer kode i Processing IDE'et.
 Vi kigger på de øvelser der var i bogen og arbejder med at skrive pseudokode.
@@ -29,10 +30,8 @@ Efter mandagslektioner vil der i starten være øvelser, som man med fordel kan 
 [Opgaver](https://github.com/Dat1Cphbusiness/Mandagsopgaver/blob/main/1.md)
 
 
-# Tirsdag
-**NB! lektionen foregår online.**
-
-- Vi samler op på mandagslektionen
+# Onsdag
+- Vi samler op på lektionen i går
 - Intro til emnet i onsdagslektionen
 - Into til Skuffeprojektet: 
 [SP1](../../projects/SP1/README.md)

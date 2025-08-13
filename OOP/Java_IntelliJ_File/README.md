@@ -84,4 +84,4 @@ Vi har i denne uge bygget 2 vigtige utility klasser.
 TextUI som gør det nemt at arbejde med brugerinput, og FileIO, som gør det nemt at arbejde med indlæsning og persistering af data.
 I fik udleveret nogle opgave ark (a.k.a tasksheets), som bryder opgaven ned i små trin så det er nemt at udvikle koden to-og-to. Det er vigtige aktiviteter som I vil få stor glæde af at have lavet senere. Så hvis du ikke føler du har været så godt med i de sidste to uger, kan du tage en studiekammerat under armen og prøve at lave de to projekter.  Skriv på support tråden, eller direkte til mig hvis I har brug for hjælp til at komme igang eller hvis I går i stå undervejs.
 
-(link til mappe med tasksheets)[https://erhvervsakademikbenhavn.sharepoint.com/:f:/r/sites/cph-Lyngby/Shared%20Documents/4.%20Indhold%20%26%20Niveau/DAT/1.sem%20efter%C3%A5r%202025/undervisere/Materialer/tasksheets?csf=1&web=1&e=8bON02]
+(link til mappe med tasksheets)[https://erhvervsakademikbenhavn.sharepoint.com/:f:/s/cph-Lyngby/EhnI6rOQsaNBuEngr9g57DcBdAqx_9hl5Uzo5OW1B7v1eA?e=ayTX80]

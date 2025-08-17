@@ -80,8 +80,14 @@ Vi prøver at genbruge TextUI i vores banksystem fra sidste uge.
 
 # Fredag: review 
 
-Vi har i denne uge bygget 2 vigtige utility klasser.
-TextUI som gør det nemt at arbejde med brugerinput, og FileIO, som gør det nemt at arbejde med indlæsning og persistering af data.
-I fik udleveret nogle opgave ark (a.k.a tasksheets), som bryder opgaven ned i små trin så det er nemt at udvikle koden to-og-to. Det er vigtige aktiviteter som I vil få stor glæde af at have lavet senere. Så hvis du ikke føler du har været så godt med i de sidste to uger, kan du tage en studiekammerat under armen og prøve at lave de to projekter.  Skriv på support tråden, eller direkte til mig hvis I har brug for hjælp til at komme igang eller hvis I går i stå undervejs.
+Vi har i dette flow bygget 2 vigtige utility klasser:
+**TextUI** som gør det nemt at arbejde med brugerinput, og **FileIO**, som gør det nemt at arbejde med indlæsning og persistering af data.
 
-(link til mappe med tasksheets)[https://erhvervsakademikbenhavn.sharepoint.com/:f:/s/cph-Lyngby/EhnI6rOQsaNBuEngr9g57DcBdAqx_9hl5Uzo5OW1B7v1eA?e=ayTX80]
+I blev sat sammen to-og-to, og fik udleveret nogle opgave ark, hvor opgaven er brudt ned i små trin, som I skiftes til at kode. 
+
+Det er vigtige aktiviteter, som vi skal bygge videre på senere. Så hvis du ikke var med, bør du tage en studiekammerat under armen og arbejde de to opgave ark igennem. 
+1. [TextUI](https://dat1cphbusiness.github.io/content/sprints/utilityclasses/Drinksmenu_w_TextUI.pdf)
+
+2. [FileIO](https://dat1cphbusiness.github.io/content/sprints/utilityclasses/Game_w_FileIO.pdf)
+
+Skriv på support tråden, eller direkte til mig hvis I har brug for hjælp til at komme igang eller hvis I går i stå undervejs.

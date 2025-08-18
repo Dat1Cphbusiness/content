@@ -20,7 +20,7 @@ Intro til programmering og IT
 
 # Onsdag
 Hello World i Processing
-- Intro til variable
+
 
 #### Forberedelse:
 (kan også læses efter timen)
